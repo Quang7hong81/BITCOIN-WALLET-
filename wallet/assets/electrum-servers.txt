@@ -1,0 +1,2 @@
+tcp:electrum.akinbo.org
+tls:testnet.hsmiths.com
