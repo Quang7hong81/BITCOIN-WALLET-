@@ -1,0 +1,3362 @@
+# These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+tùy chỉnh: # Thay thế bằng tối đa 4 URL tài trợ tùy chỉnh, ví dụ: ['link1', 'link2']
+Các bác sĩ cho biết thêm: === application info ===
+
+Version: 8.11 (811)
+
+APK Hash: 6ca9862f4c53723ed77d3c2c85a46028c950f665dbac30c9c4aedde719988654
+
+Package: de.schildbach.wallet
+
+Flavor: prod
+
+Build Type: release
+
+Installer: Google Play (com.android.vending)
+
+Timezone: Asia/Ho_Chi_Minh
+
+Current time: 2021-04-13 03:23:37 UTC
+
+Time of app launch: 2021-04-13 03:09:15 UTC
+
+Time of first app install: 2021-02-21 10:46:48 UTC
+
+Time of last app update: 2021-02-28 14:33:43 UTC
+
+Time of last backup: 2021-04-12 11:53:20 UTC
+
+Time of last restore: 2021-04-10 08:23:00 UTC
+
+Time of last encrypt keys: none
+
+Time of last blockchain reset: 2021-02-24 13:44:37 UTC
+
+Network: org.bitcoin.production
+
+Chế độ đồng bộ hóa: CONNECTION_FILTER
+Các bác sĩ cho biết thêm:
+Đã mã hóa: false
+
+Keychain size: 540
+
+Transactions: 0
+
+Inputs: 0
+
+Outputs: 0 (spent: 0)
+
+Last block seen: 678996 (2021-04-13T03:21:08Z)
+
+Best chain height ever: 678996
+
+Databases: address_book address_book-wal address_book-shm exchange_rates exchange_rates-wal exchange_rates-shm
+
+Contents of FilesDir /data/user/0/de.schildbach.wallet/files:
+
+2021-04-13 03:23:11        3 kB  files
+
+  - 2021-04-13 03:09:15        3 kB  log
+
+  -   - 2021-04-13 03:23:36      287 kB  wallet.log
+
+  -   - 2021-04-07 02:09:59       87 kB  wallet.2021-04-06.log.gz
+
+  -   - 2021-04-12 11:44:10       13 kB  wallet.2021-04-11.log.gz
+
+  -   - 2021-04-13 03:09:15        7 kB  wallet.2021-04-12.log.gz
+
+  -   - 2021-04-08 09:33:18        0 kB  wallet.2021-04-07.log.gz
+
+  -   - 2021-04-09 04:34:13       20 kB  wallet.2021-04-08.log.gz
+
+  -   - 2021-04-10 07:18:25       15 kB  wallet.2021-04-09.log.gz
+
+  -   - 2021-04-11 05:31:54       64 kB  wallet.2021-04-10.log.gz
+
+  - 2021-04-10 08:23:00       45 kB  key-backup-protobuf
+
+  - 2021-04-13 03:23:11       45 kB  wallet-protobuf
+
+  - 2021-04-10 17:50:48 0 kB phí.txt
+Các bác sĩ cho biết thêm:
+không trống / có thể sử dụng: 12741372/12741372 kB.
+Các bác sĩ cho biết thêm:Wallet
+
+Balances:
+
+  0.00 BTC ESTIMATED
+
+  0.00 BTC AVAILABLE
+
+  0.00 BTC ESTIMATED_SPENDABLE
+
+  0.00 BTC AVAILABLE_SPENDABLE
+
+Transactions:
+
+  0 pending
+
+  0 unspent
+
+  0 spent
+
+  0 dead
+
+Last seen best block: 678996 (2021-04-13T03:21:08Z): 000000000000000000043393f0fb387039ef485c5d4800d99d0781d1e42622ff
+
+Keys:
+
+Earliest creation time: 2021-02-21T10:47:26Z
+
+Seed birthday:     1613904446  [2021-02-21T10:47:26Z]
+
+Ouput script type: P2PKH
+
+Key to watch:      xpub69MN9gSYU3BM7qzX8MaYazuJJen8rXSvJ5HWLTUfJaw4tyKBQTNLqhyxWec6TnzTjKpz8AzKGTuWtjjqnHQo4RpRW1xe9pxi55uzfFA937b
+
+Lookahead siz/thr: 100/33
+
+  addr:1K9cLVoS5reNgMH2aP8VQCFLBhUY9eqvJk  hash160:c71316c44dfc9dde211be92cb6ddd6054afad097  (M, root)
+
+  addr:1MErm7TRoMkic6HYTCedbr3oEMbvJGcxpH  hash160:de0176104168225c664b1ec3ba22ef7053e76e2d  (M/0H, account)
+
+  addr:1Dhqz1c2fLQsn2UK8StABJ9hnNoWRKiEVY  hash160:8b5b096a0e13d6b42ecb328b8ee8f20bd9d3afca  (M/0H/0, external)
+
+  addr:1NP2byyPSn9mWHNDuHgePtqHswbbnRB8PW  hash160:ea85217fb44d953f039894e49ad344361e1776dd  (M/0H/1, internal)
+
+  addr:1ArStEVKdwxcVMm7iAW6Vc5iz8EDopaAEp  hash160:6c131ed85f48996c2ff20313115fd896f9fe3dee  (M/0H/0/0)
+
+Seed birthday:     1613904446  [2021-02-21T10:47:26Z]
+
+Ouput script type: P2WPKH
+
+Key to watch:      zpub6o1tm1nNmQGJszvHo8JSMStPtfAakWehQoS7wGxovm9DPiBxvi5Nu3BKnjxgc5gARKwRNFLnok1bU5Ex8gDFNioWPxsE5tHxqCcJ1CKbWBf
+
+Lookahead siz/thr: 100/33
+
+  addr:bc1qcuf3d3zdljwauggmayktdhwkq49045yhm4a9fd  hash160:c71316c44dfc9dde211be92cb6ddd6054afad097  (M, root)
+
+  addr:bc1q0q2gcfl96w3p963ysd05e64w8khtl87mala7xa  hash160:78148c27e5d3a212ea24835f4ceaae3daebf9fdb  (M/1H, account)
+
+  addr:bc1qdwmzr2lewfx238j80tazpvzf2jy9npgju4uk9v  hash160:6bb621abf9724ca89e477afa20b0495488598512  (M/1H/0, external)
+
+  addr:bc1qgkfe76ajeaqzg8a8mwjn5zpzcnjxr8q5m2wk89  hash160:45939f6bb2cf40241fa7dba53a0822c4e4619c14  (M/1H/1, internal)
+
+  addr:bc1q9rnspmduytwk33w26dcnh4km2470zxa8hj4uun  hash160:28e700edbc22dd68c5cad3713bd6db557cf11ba7  (M/1H/0/0)
+
+  addr:bc1qdxpudg09h7ytcehsun900jtmrn9pmmrqe3ty9l  hash160:6983c6a1e5bf88bc66f0e4caf7c97b1cca1dec60  (M/1H/0/1)
+
+  addr:bc1qhd7m632fr4w6lkndl305sxd3rrxa72q9j9cym2  hash160:bb7dbd45491d5dafda6dfc5f4819b118cddf2805  (M/1H/0/2)
+
+  addr:bc1qkxx2n7ms7alsxhqqgr2pq7ahmgdk9efnsuyt8y  hash160:b18ca9fb70f77f035c0040d4107bb7da1b62e533  (M/1H/0/3)
+
+  addr:bc1qdk7v47gqyg603z4nw2qaz530lxhsrl6c9grh5m  hash160:6dbccaf9002234f88ab37281d1522ff9af01ff58  (M/1H/0/4)
+
+  addr:bc1q04qn2kwhpshnv44fdtmlrmfeep6rmzwj6atfdc  hash160:7d413559d70c2f3656a96af7f1ed39c8743d89d2  (M/1H/0/5)
+
+  addr:bc1q4ssddza762fwlk7n42t4dy3w2eyvs950xt8j9j  hash160:ac20d68bbed292efdbd3aa9756922e5648c8168f  (M/1H/0/6)
+
+  addr:bc1qq8nzxdyr2md9hgfq3ygnsnr8archnqzlc5suwn  hash160:01e623348356da5ba1208911384c67e8f179805f  (M/1H/0/7)
+  
+
+--- collected at 2021-04-13 03:09:29 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:09:34 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:15:29 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:15:29 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:15:30 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:15:31 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:15:35 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:15:37 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:15:55 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:17:13 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:17:13 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:17:33 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:17:40 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:17:46 UTC on version 8.11 (811) ---
+
+java.io.IOException: Error: -1
+
+	at android.bluetooth.BluetoothAdapter.createNewRfcommSocketAndRecord(BluetoothAdapter.java:2324)
+
+	at android.bluetooth.BluetoothAdapter.listenUsingInsecureRfcommWithServiceRecord(BluetoothAdapter.java:2269)
+
+	at de.schildbach.wallet.offline.AcceptBluetoothThread$ClassicBluetoothThread.<init>(AcceptBluetoothThread.java:54)
+
+	at de.schildbach.wallet.offline.AcceptBluetoothService$1.<init>(AcceptBluetoothService.java:109)
+
+	at de.schildbach.wallet.offline.AcceptBluetoothService.onCreate(AcceptBluetoothService.java:109)
+
+	at android.app.ActivityThread.handleCreateService(ActivityThread.java:4208)
+
+	at android.app.ActivityThread.access$1700(ActivityThread.java:255)
+
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2089)
+
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+
+	at android.os.Looper.loop(Looper.java:230)
+
+	at android.app.ActivityThread.main(ActivityThread.java:7752)
+
+	at java.lang.reflect.Method.invoke(Native Method)
+
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:526)
+
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1034)
+
+--- collected at 2021-04-13 03:18:28 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:18:28 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:18:29 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:18:31 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:18:44 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:22:13 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:22:31 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:22:35 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+
+--- collected at 2021-04-13 03:23:35 UTC on version 8.11 (811) ---
+
+org.bitcoinj.core.ProtocolException: Received AlertMessage before version handshake is complete.
+
+	at org.bitcoinj.core.Peer.processMessage(Peer.java:458)
+
+	at org.bitcoinj.core.PeerSocketHandler.receiveBytes(PeerSocketHandler.java:187)
+
+	at org.bitcoinj.net.ConnectionHandler.handleKey(ConnectionHandler.java:238)
+
+	at org.bitcoinj.net.NioClientManager.handleKey(NioClientManager.java:86)
+
+	at org.bitcoinj.net.NioClientManager.run(NioClientManager.java:122)
+
+	at com.google.common.util.concurrent.AbstractExecutionThreadService$1$2.run(AbstractExecutionThreadService.java:65)
+
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:119)
+
+	at org.bitcoinj.utils.ContextPropagatingThreadFactory$1.run(ContextPropagatingThreadFactory.java:51)
+
+	at java.lang.Thread.run(Thread.java:919)
+  Dự án VBTC - Bitcoin ảo
+
+Để chạy cài đặt cục bộ sợi và Ganache, (ứng dụng ethereum cục bộ)
+
+Đảm bảo rằng cổng máy chủ cục bộ là chính xác
+
+Để kiểm tra mạng rinkeby, hãy truy cập mạng
+
+https://faucet.rinkeby.io/
+
+để có được một số thử nghiệm wei
+
+## Tập lệnh Có sẵn
+
+Trong thư mục dự án, bạn có thể chạy:
+
+### `đầu sợi`
+
+Chạy ứng dụng ở chế độ phát triển. <br />
+
+Mở [http: // localhost: 3000] (http: // localhost: 3000) để xem trong trình duyệt.
+
+Trang sẽ tải lại nếu bạn thực hiện chỉnh sửa. <br />
+
+Bạn cũng sẽ thấy bất kỳ lỗi xơ vải nào trong bảng điều khiển.
+Các bác sĩ cho biết thêm:
+Các bác sĩ cho biết thêm:
+Tiêu đề phản hồi [Co lại] 
+
+200 thành công
+
+access-control-allow-headers: *
+
+access-control-allow-origin: *
+
+cho phép: GET
+
+alt-svc: h3-27 = ": 443"; ma = 86400, h3-28 = ": 443"; ma = 86400, h3-29 = ": 443"; ma = 86400, h3 = ": 443"; ma = 86400
+
+cache-control: no-cache, private
+
+cf-cache-status: DYNAMIC
+
+cf-ray: 66af43e96dc5a318-HKG
+
+mã hóa nội dung: br
+
+content-type: application / json
+
+ngày: Thứ 4, ngày 7 tháng 7 năm 2021, 07:12:34 GMT
+
+mong đợi-ct: max-age = 604800, report-uri = "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+
+nel: {"report_to": "cf-nel", "max_age": 604800}
+
+Báo cáo-to: { "điểm cuối": [{ "url": "https: \ / \ / a.nel.cloudflare.com \ / báo cáo \ / v2 s = pJ5f56dY0UOBxucNzHtZefxlJWwWSfzbKn0luns6YsFcnbKzwsY1AWs41j7% 2Fcn2bRjdA3anCluQZa% 2FZf2% 2FJax3ql7ntjUWt8CO2% 2FM2qi0GfmkmCcuJ4I4eAxhjDx"}] , "nhóm": "cf-nel", "max_age": 604800}
+
+máy chủ: cloudflare
+
+khác nhau: Tác nhân người dùng
+
+x-frame-options: SAMEORIGIN
+
+x-xss-bảo vệ: 1; mode = khối
+
+Nội dung phản hồi [Mặc định]
+
+{"status": 200, "account": {"name": "Anonymous", "credit": 0, "volumeUsed": 0, "volumeLeft": 250000, "tier": {"orderLimit": 250000, " number ": 0," feeRate ": 0.2," tradingLimit ": 250000," buyOrderLimit ": 250000}," số dư ": []}}
+
+Curl command line
+Các bác sĩ cho biết thêm:
+curl -X "NHẬN" -H "Chấp nhận: \ ứng dụng / json" -H "Loại nội dung: \ application / json" -H "de.schildbach.wallet: \ Bitcoin \ Wallet" -H "e4f9be85ecbac8a418ec4f2d1577f1cea0c265f1b0cd501OT408c3ec99321 / account ? 0 = d & 1 = e & 2 =. & 3 = s & 4 = c & 5 = h & 6 = i & 7 = l & 8 = d & 9 = b & 10 = a & 11 = c & 12 = h & 13 =. & 14 = w & 15 = a & 16 = l & 17 = l & 18 = e & 19 = tCác bác sĩ cho biết thêm:
+Các bác sĩ cho biết thêm: Request URL
+
+NHẬN /api/constants/bankaccounts?0=d&1=e&2=.&3=s&4=c&5=h&6=i&7=l&8=d&9=b&10=a&11=c&12=h&13=.&14=w&15=a&16=l&17=l&18=e&19= ttResponse Headers [Shrink] 
+
+200 success
+
+access-control-allow-headers: *
+
+access-control-allow-origin: *
+
+allow: GET
+
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400
+
+cache-control: no-cache, private
+
+cf-cache-status: DYNAMIC
+
+cf-ray: 66af4a458abfa318-HKG
+
+content-encoding: br
+
+content-type: application/json
+
+date: Wed, 07 Jul 2021 07:16:55 GMT
+
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+
+nel: {"report_to":"cf-nel","max_age":604800}
+
+Báo cáo-to: { "điểm cuối": [{ "url": "https: \ / \ / a.nel.cloudflare.com \ / báo cáo \ / v2 s = D32% 2BuBYVqd5TNlCWKwtEj2fl7VWhOjJ7q3cDBruNkRJrA3R9vvHKs7E9RIu% 2F% 2BEplSu4DQ364doWr8gHRnCdBHyDxnkWaGeoANNzAfjiuuwYJV1wwdH6mnBlpnV9W"}]," nhóm ":" cf-nel "," max_age ": 604800}
+Các bác sĩ cho biết thêm:
+Các bác sĩ cho biết thêm:Response Body [Default]
+
+[{"bank_name": "Viet Capital Bank", "bank_branch": "TP.HCM", "account_number": "8007041001748", "Holder_of_account": "Dominik Weil"}]
+máy chủ: cloudflare
+Các bác sĩ cho biết thêm:
+khác nhau: Tác nhân người dùng
+Các bác sĩ cho biết thêm: Curl Command Line
+
+curl -X "GET" -H "Chấp nhận: \ application / json" -H "Loại nội dung: \ application / json" -H "de.schildbach.wallet: \ Bitcoin \ Wallet" -H "e4f9be85ecbac8a418ec4f2d1577f1cea0c265f1b0cd501408c3ec993213Gefk7MzYz2 Epaw6MzYzYz2 EHS5KL7YzYz: /api/constants/bankaccounts?0=d&1=e&2=.&3=s&4=c&5=h&6=i&7=l&8=d&9=b&10=a&11=c&12=h&13=.&14=w&15=a&16=l&17=l&18=e&19=t
+x-frame-options: SAMEORIGIN
+Các bác sĩ cho biết thêm:
+x-xss được bảo vệ: 1; mode = block
+Yêu cầu URL
+
+NHẬN /api/constants/constraints?0=d&1=e&2=.&3=s&4=c&5=h&6=i&7=l&8=d&9=b&10=a&11=c&12=h&13=.&14=w&15=a&16=l&17=l&18=e&19= t
+
+Tiêu đề phản hồi [Co lại] 
+
+200 thành công
+
+access-control-allow-headers: *
+
+access-control-allow-origin: *
+
+cho phép: GET
+
+alt-svc: h3-27 = ": 443"; ma = 86400, h3-28 = ": 443"; ma = 86400, h3-29 = ": 443"; ma = 86400, h3 = ": 443"; ma = 86400
+
+cache-control: no-cache, private
+
+cf-cache-status: DYNAMIC
+
+cf-ray: 66af50e5aae8a318-HKG
+
+mã hóa nội dung: br
+
+content-type: application / json
+
+ngày: Thứ 4, ngày 7 tháng 7 năm 2021, 07:21:26 GMT
+
+mong đợi-ct: max-age = 604800, report-uri = "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+
+nel: {"report_to": "cf-nel", "max_age": 604800}
+
+Báo cáo-to: { "điểm cuối": [{ "url": "https: \ / \ / a.nel.cloudflare.com \ / báo cáo \ / v2 s = AsFREfO% 2BZh0iipCBq0UZNbj2AQx9NY% 2FW7Au% 2BhfXMiFJ9RT6dku7iKQ5OrifPYmpjV8XaVOieFJ0hIA430d1k2mujk70QHRmHCdoQEdVe7knscAGlxYV57efiyBY7"}]," nhóm ":" cf-nel "," max_age ": 604800}
+
+máy chủ: cloudflare
+
+khác nhau: Tác nhân người dùng
+
+x-frame-options: SAMEORIGIN
+
+x-xss-bảo vệ: 1; mode = khối
+
+Nội dung phản hồi [Mặc định]
+
+{"status":200,"minVolumes":{"BTC":{"symbol":"BTC","buy":128715,"sell":0.00011636},"USDTERC20":{"symbol":"USDTERC20","buy":2231771,"sell":4.0092212},"ETH":{"symbol":"ETH","buy":743924,"sell":0.0016923},"BCH":{"symbol":"BCH","buy":93200,"sell":0.00770878},"LTC":{"symbol":"LTC","buy":93200,"sell":0.02864438},"DASH":{"symbol":"DASH","buy":93200,"sell":0.02919147},"USDC":{"symbol":"USDC","buy":2231771,"sell":4.02050457},"USDTSLP":{"symbol":"USDTSLP","buy":93200,"sell":4.0092212},"DAI":{"symbol":"DAI","buy":2231771,"sell":4.08538453},"DOGE":{"symbol":"DOGE","buy":93200,"sell":17.25625539}},"supportedBanks":["ACB","AgriBank","AnBinh Bank","BIDV","BacA Bank","Citibank","DongA Bank","EximBank","GPBank","HD Bank","HSBC","Hong Leong Bank","Kienlongbank","MB","Maritime Bank","NamA Bank","OCB","OceanBank","PG Bank","PVcomBank","SCB","SHB","SacomBank","SaigonBank","SeaBank","Shinhan Bank","Standard Chartered","Techcombank","TienPhong Bank","VIB","VPBank","Viet Capital Bank","VietA Bank","Vietcombank","VietinBank","Woori Bank"]}
+
+Curl Command Line
+
+curl -X "GET" -H "Chấp nhận: \ application / json" -H "Loại nội dung: \ application / json" -H "de.schildbach.wallet: \ Bitcoin \ Wallet" -H "e4f9be85ecbac8a418ec4f2d1577f1cea0c265f1b0cd501408c3ec993213Gefk7MzYz2 Epaw6MzYzYz2 EHS5KL7YzYz: /api/constants/constraints?0=d&1=e&2=.&3=s&4=c&5=h&6=i&7=l&8=d&9=b&10=a&11=c&12=h&13=.&14=w&15=a&16=l&17=l&18=e&19=tCác bác sĩ cho biết thêm:
+Các bác sĩ cho biết thêm:<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+ <meta charset="UTF-8">
+
+ <meta name="description" content="{{ site.description }}">
+
+ <meta name="author" content="{{ site.author }}">
+
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-
+
+scale=3.0">
+
+ <meta name="theme-color" content="#F7941D">
+
+ <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=478559">
+
+ <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=478559">
+
+ <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=478559">
+
+ <link rel="manifest" href="/manifest.json?v=478559">
+
+ <link rel="mask-icon" href="/safari-pinned-tab.svg?v=478559" color="#5bbad5">
+
+ <link rel="shortcut icon" href="/favicon.ico?v=478559">
+
+ <meta name="theme-color" content="#ffffff">
+
+ <meta property="og:title" content="{{ site.title }}">
+
+ <meta property="og:type" content="website">
+
+ <meta property="og:image" content="{{ site.url }}/{{ site.img }}">
+
+ <meta property="og:url" content="{{ site.url }}">
+
+ <meta property="og:description" content="{{ page.description }}">
+
+ <title>{{ site.title }}</title>
+
+ <!-- Google Fonts should not use SRI hashes as the CSS served dynamically changes
+
+depending on browser -->
+
+ <link href="https://fonts.googleapis.com/css?
+
+family=Ubuntu:300,300i,400,400i,500,500i,700" rel="stylesheet">
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-
+
+ui/2.2.7/semantic.min.css"
+
+ integrity="sha384-
+
+OWA++c6zXatjdqJdL8H+05IXMubqBVwUdl1Cd9GzMwpjc9lBoy0rSYmTLtj1IDKv"
+
+crossorigin="anonymous">
+
+ <link rel="stylesheet" href="/css/base.css">
+
+ <link rel="stylesheet" href="/css/corner.css">
+
+ <link rel="stylesheet" href="/css/z-switch.css">
+
+</head>
+
+<body>
+
+{{ content }}
+
+<!-- ./scripts/python/bchAccepted.py must be run at build time to generate/update the
+
+following include: -->
+
+{% include count_support.html %}
+
+<div class="ui center aligned segment twitter-panel">
+
+ <a class="twitter-timeline" data-dnt="true" data-theme="light" data-width="705"
+
+href="https://twitter.com/search?q=usebitcoin.cash" data-widget-
+
+id="939960678953218048">Tweets about usebitcoin.cash</a>
+
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)
+
+[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id))
+
+{js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentN
+
+ode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+ <br><br>
+
+ <a href="https://twitter.com/useBitcoinCash?ref_src=twsrc%5Etfw" class="twitter-follow-
+
+button" data-size="large" data-dnt="true" data-show-count="false">Follow
+
+@useBitcoinCash</a><script async src="https://platform.twitter.com/widgets.js"
+
+charset="utf-8"></script>
+
+</div>
+
+<div class="subfooter ui center aligned segment more-info">
+
+ <div class="inner">
+
+ <h3> Thêm thông tin cho ... </h3>
+Các bác sĩ cho biết thêm:
+ <div class = "ui button
+ "><button id="ama-merchant" class="ui huge blue inverted button">Merchants</button>
+
+ <div class = "hoặc"> </div>
+
+ <button id = "ama-customer" class = "ui nút đảo ngược màu cam lớn"> Khách hàng </button>
+
+ </div>
+
+ </div>
+
+</div>
+
+<div class = "ui center align asset-panel">
+
+ <p> <b> Tìm kiếm các loại biểu trưng Bitcoin Cash, hình ảnh, bảng chỉ dẫn POS, v.v.? </b>
+
+<br> Bên dưới, bạn sẽ tìm thấy nội dung có độ phân giải cao do các thành viên cộng đồng cung cấp. </p>
+
+ <a id="assets">
+
+ <i class = "image icon"> </i>
+
+ Nội dung hình ảnh
+
+ </a>
+
+ <a id="art-collections">
+
+ <i class = "qrcode icon"> </i>
+
+ Bộ sưu tập tác phẩm nghệ thuật
+
+ </a>
+
+</div>
+
+<div class = "ui center align ticker">
+
+ <ul id = "ticker_value">
+
+ <li> Đang tải & hellip; </li>
+
+ </ul>
+
+</div>
+
+<div class = "footer ui phân đoạn căn giữa">
+
+<p> Phát hiện một vấn đề hoặc muốn thêm một trang web? <a class = "submit-new" href = "/ add"
+
+target = "_ blank" data-tooltip = "Điền vào biểu mẫu nhanh" data-position = "top center" data-
+
+inverted = ""> Hãy cho chúng tôi biết </a> hoặc <a
+
+href = "https://github.com/acceptbitcoincash/acceptbitcoincash/blob/master/CONTRIBUTING.md"
+
+target = "_ blank" data-tooltip = "Tìm hiểu thêm về cách đóng góp" data-position = "top center"
+
+data-inverted = ""> đóng góp </a> trực tiếp trên <i class = "github icon"> </i> <a href = "{{
+
+site.repo}} "target =" _ blank "data-tooltip =" Mã nguồn cho trang web này "data-
+
+position = "top center" data-inverted = ""> GitHub </a>. </p>
+
+ <p> Được tạo bằng <i class = "red heart small icon"> </i> bởi <a
+
+href = "https://github.com/acceptbitcoincash" target = "_ blank" data-tooltip = "Của chúng tôi
+
+tổ chức trên Github "data-position =" top center "data-inverted =" "> <em> the </em>
+
+<b> Chấp nhận Bitcoin Cash </b> <em> sáng kiến </em> </a>. & nbsp; <a id = "show-disclaimer" data-
+
+tooltip = "Một số thông tin quan trọng cần biết" data-position = "top center" data-inverted = ""> <i
+
+class = "biểu tượng màu cam cảnh báo"> </i> Thận trọng! </a> </p>
+
+ <p class = "version"> <em> Sửa đổi lần cuối </em> <b> {{site.time}} </b> </p>
+
+</div>
+
+{% bao gồm fab.html%}
+
+{% include modals / add-site-form.html%}
+
+{% include modals / merchant.html%}
+
+{% include modals / customer.html%}
+
+{% include modals / image-asset.html%}
+
+{% include modals / art-collection.html%}
+
+{% include modals / disclaimer.html%}
+
+<! - Thư viện bên thứ 3 ->
+
+<script src = "https://code.jquery.com/jquery-3.1.1.min.js"
+
+ toàn vẹn = "sha384-
+
+3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7 "
+
+ crossorigin = "nặc danh"> </script>
+
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.js"
+
+ toàn vẹn = "sha384-
+
+PSPYZ405uwFeU9YdtB0IByYECMwUIEGlSjmq1V7MD1zJLZ2VEw + 8ko9hcpILlAjZ "
+
+ crossorigin = "nặc danh"> </script>
+
+<script src = "/ js / jquery.unveil.min.js"> </script>
+
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/jets/0.13.0/jets.min.js"
+
+ toàn vẹn = "sha384-
+
+3XpZKO / 6IouOQmpAvQxLkXEb / pwxGCYqUo139 / l6M12U3HmeWnna / qKWIgIJTLPV "
+
+ crossorigin = "nặc danh"> </script>
+
+<! - TFA JS ->
+<script src = "/ js / fixto.min.js"> </script>
+
+<script src = "/ js / app.js"> </script>
+
+<! - Thẻ trang web toàn cầu (gtag.js) - Google Analytics ->
+
+<script async src = "https://www.googletagmanager.com/gtag/js?id=UA-107218359-1"> </script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+ function gtag () {dataLayer.push (các đối số)};
+
+ gtag ('js', new Date ());
+
+ gtag ('config', 'UA-107218359-1');
+
+</script>
+
+</body>
+
+</html> Các bác sĩ cho biết thêm:
+<script src = "/ js / ticker.js"> </script>
+Các bác sĩ cho biết thêm:
+<script src = "/ js / lift.min.js"> </script>
+# Bitcoin Core file system
+
+**Contents**
+
+- [Data directory location](#data-directory-location)
+
+- [Data directory layout](#data-directory-layout)
+
+- [Multi-wallet environment](#multi-wallet-environment)
+
+- [GUI settings](#gui-settings)
+
+- [Legacy subdirectories and files](#legacy-subdirectories-and-files)
+
+- [Notes](#notes)
+
+## Data directory location
+
+The data directory is the default location where the Bitcoin Core files are
+
+stored.
+
+1. The default data directory paths for supported platforms are:
+
+Platform | Data directory path
+
+---------|--------------------
+
+Linux | `$HOME/.bitcoin/`
+
+macOS | `$HOME/Library/Application Support/Bitcoin/`
+
+Windows | `%APPDATA%\Bitcoin\` <sup>[\[1\]](#note1)</sup>
+
+2. The non-default data directory path can be specified by `-datadir` option.
+
+3. All content of the data directory, except for `bitcoin.conf` file, is chain-
+
+specific. This means the actual data directory paths for non-mainnet cases
+
+differ:
+
+Chain option | Data directory path
+
+--------------------|--------------------
+
+no option (mainnet) | *path_to_datadir*`/`
+
+`-testnet` | *path_to_datadir*`/testnet3/`
+
+`-regtest` | *path_to_datadir*`/regtest/`
+
+## Data directory layout
+
+Subdirectory | File(s) | Description
+
+-------------------|-----------------------|------------
+
+`blocks/` | | Blocks directory; can be specified
+
+by `-blocksdir` option (except for `blocks/index/`)
+
+`blocks/index/` | LevelDB database | Block index; `-blocksdir` option
+
+does not affect this path
+
+`blocks/` | `blkNNNNN.dat`<sup>[\[2\]](#note2)</sup> | Actual Bitcoin
+
+blocks (in network format, dumped in raw on disk, 128 MiB per file)
+
+`blocks/` | `revNNNNN.dat`<sup>[\[2\]](#note2)</sup> | Block undo data
+
+(custom format)
+
+`chainstate/` | LevelDB database | Blockchain state (a compact
+
+representation of all currently unspent transaction outputs and some metadata
+
+about the transactions they are from)
+
+`indexes/txindex/` | LevelDB database | Transaction index; *optional*, used
+
+if `-txindex=1`
+
+`indexes/blockfilter/basic/db/` | LevelDB database | Blockfilter index
+
+LevelDB database for the basic filtertype; *optional*, used if `-
+
+blockfilterindex=basic`
+
+`indexes/blockfilter/basic/` | `fltrNNNNN.dat`<sup>[\[2\]](#note2)</sup> |
+
+Blockfilter index filters for the basic filtertype; *optional*, used if `-
+
+blockfilterindex = basic`Các bác sĩ cho biết thêm:`wallets/` | | [Contains wallets](#multi-wallet-
+
+environment); can be specified by `-walletdir` option; if `wallets/` subdirectory
+
+does not exist, a wallet resides in the data directory
+
+`./` | `banlist.dat` | Stores the IPs/subnets of banned
+
+nodes
+
+`./` | `bitcoin.conf` | Contains [configuration settings]
+
+(bitcoin-conf.md) for `bitcoind` or `bitcoin-qt`; can be specified by `-conf`
+
+option
+
+`./` | `bitcoind.pid` | Stores the process ID (PID) of
+
+`bitcoind` or `bitcoin-qt` while running; created at start and deleted on
+
+shutdown; can be specified by `-pid` option
+
+`./` | `debug.log` | Contains debug information and
+
+general logging generated by `bitcoind` or `bitcoin-qt`; can be specified by `-
+
+debuglogfile` option
+
+`./` | `fee_estimates.dat` | Stores statistics used to estimate
+
+minimum transaction fees and priorities required for confirmation
+
+`./` | `guisettings.ini.bak` | Backup of former [GUI settings]
+
+(#gui-settings) after `-resetguisettings` option is used
+
+`./` | `mempool.dat` | Dump of the mempool's transactions
+
+`./` | `onion_private_key` | Cached Tor hidden service private
+
+key for `-listenonion` option
+
+`./` | `peers.dat` | Peer IP address database (custom
+
+format)
+
+`./` | `.cookie` | Session RPC authentication cookie;
+
+if used, created at start and deleted on shutdown; can be specified by `-
+
+rpccookiefile` option
+
+`./` | `.lock` | Data directory lock file
+
+## Multi-wallet environment
+
+Wallets are Berkeley DB (BDB) databases:
+
+Subdirectory | File(s) | Description
+
+-------------|-------------------|------------
+
+`database/` | BDB logging files | Part of BDB environment; created at start and
+
+deleted on shutdown; a user *must keep it as safe* as personal wallet
+
+`wallet.dat`
+
+`./` | `db.log` | BDB error file
+
+`./` | `wallet.dat` | Personal wallet (BDB) with keys and
+
+transactions
+
+`./` | `.walletlock` | Wallet lock file
+
+1. Each user-defined wallet named "wallet_name" resides in `wallets/wallet_name/`
+
+subdirectory.
+
+2. The default (unnamed) wallet resides in `wallets/` subdirectory; if the latter
+
+does not exist, the wallet resides in the data directory.
+
+3. A wallet database path can be specified by `-wallet` option.
+
+4. `wallet.dat` files must not be shared across different node instances, as that
+
+can result in key-reuse and double-spends due the lack of synchronization between
+
+instances.
+
+5. Any copy or backup of the wallet should be done through a `backupwallet` call
+
+in order to update and lock the wallet, preventing any file corruption caused by
+
+updates during the copy.
+
+## GUI settings
+
+`bitcoin-qt` uses [`QSettings`](https://doc.qt.io/qt-5/qsettings.html) class;
+
+this implies platform-specific [locations where application settings are stored]
+
+(https://doc.qt.io/qt-5/qsettings.html#locations-where-application-settings-are-
+
+lưu trữ).## Legacy subdirectories and files
+
+Các thư mục con và tệp này không còn được Bitcoin Core sử dụng nữa:
+
+Đường dẫn | Mô tả | Ghi chú kho lưu trữ
+
+--------------- | ------------- | -----------------
+
+`blktree /` | Chỉ số chuỗi khối; được thay thế bởi `blocks / index /` trong [0.8.0]
+
+(https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-
+
+Cải tiến 0.8.0.md #) | [PR # 2231]
+
+(https://github.com/bitcoin/bitcoin/pull/2231), [`8fdc94cc`]
+
+(https://github.com/bitcoin/bitcoin/commit/8fdc94cc8f0341e96b1edb3a5b56811c0b20bd
+
+15)
+
+`xu /` | Cơ sở dữ liệu đầu ra giao dịch chưa gửi; được thay thế bằng `chainstate / '
+
+trong 0,8.0 | [PR # 2231] (https://github.com/bitcoin/bitcoin/pull/2231), [`8fdc94cc`]
+
+(https://github.com/bitcoin/bitcoin/commit/8fdc94cc8f0341e96b1edb3a5b56811c0b20bd
+
+15)
+
+`blkindex.dat` | Cơ sở dữ liệu BDB chỉ số chuỗi khối; được thay thế bởi {`chainstate /`,
+
+`blocks / index /`, `blocks / revNNNNN.dat` <sup> [\ [2 \]] (# note2) </sup>} trong 0.8.0 | [PR
+
+# 1677] (https://github.com/bitcoin/bitcoin/pull/1677)
+
+`blk000? .dat` | Dữ liệu khối (định dạng tùy chỉnh, 2 GiB mỗi tệp); thay thế bởi
+
+`blocks / blkNNNNN.dat` <sup> [\ [2 \]] (# note2) </sup> trong 0.8.0 | [PR # 1677]
+
+(https://github.com/bitcoin/bitcoin/pull/1677)
+
+`addr.dat` | Cơ sở dữ liệu BDB địa chỉ IP ngang hàng; được thay thế bởi `peer.dat` trong [0.7.0]
+
+(https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-
+
+0,7.0.md) | [PR # 1198] (https://github.com/bitcoin/bitcoin/pull/1198),
+
+[`928d3a01`]
+
+(https://github.com/bitcoin/bitcoin/commit/928d3a011cc66c7f907c4d053f674ea77dc611
+
+cc)
+
+## Ghi chú
+
+<a name="note1"> 1 </a>. Dấu `/` (gạch chéo, U + 002F) được sử dụng làm nền tảng-
+
+phân tách thành phần đường dẫn độc lập trong bài báo này.
+
+<a name="note2"> 2 </a>. `NNNNN` để so sánh với` [0-9] {5} `regex.
+Các bác sĩ cho biết thêm:JCB 3564 9073 9214 8084 1806 247 $27193 8 2028 Cecil Rose
+
+Marina Place 7304
+
+Hong Kong American Express 3481 043499 86324 3183 2381 $34570 2 2023 Spencer
+
+Wiggins
+
+Danube Street 6955
+
+Chile Maestro 6304 7914 4763 0710 7552 851 $23832 10 2024 Thaddeus Raymond
+
+Morocco Street 139
+
+Venezuela DCI 3016 0778 0300 0862 7161 327 $39139 4 2029 Richie Lowery
+
+Fairfield Grove 1834
+
+Jordan China UnionPay 6240 8351 1657 9844 8116 709 $27944 5 2026 Cody Myers
+
+Hannington Road 5102
+
+United Kingdom Mastercard 2248 5537 9368 2374 2737 199 $34149 10 2027 Leon
+
+Bradford
+
+Lough Road 7711
+
+Belarus Discover 6221 7318 6825 4392 5638 218 $19125 6 2028 Kailee Duffy
+
+Raglan Street 1384
+
+France China UnionPay 6207 2627 9909 1644 1967 815 $34591 8 2023 Sal Acosta
+
+Crestfield Street 5295
+
+Yemen Discover 6221 9643 2689 4703 1283 250 $17456 2 2024 Armani Waters
+
+Willshaw Street 4351
+
+Netherlands Mastercard 2226 1840 6647 4483 2913 527 $22579 5 2028 Spencer Garner
+
+High Holborn 4118
+
+Kuwait Mastercard 2235 9961 9350 4661 8090 828 $40497 2 2022 Amari Ingram
+
+Hilborough Road 1101
+
+Costa Rica Maestro 6763 6662 9286 3257 8265 937 $18920 3 2026 Deon Chaney
+
+Westmoor Street 2441
+
+Oman China UnionPay 6287 5692 0004 4464 1309 731 $48252 12 2021 Laurel Michael
+
+Chapel Hill 918
+
+Singapore Discover 6222 1608 8083 8637 2887 868 $23486 6 2028 Noah Copeland
+
+St. Mark's Rise 1074
+
+Lesotho Visa 4512 2465 2164 6721 7147 841 $23964 11 2023 Devon Byrd
+
+Holyrood Street 3174
+
+South Africa Mastercard 2710 4510 1846 3739 1781 540 $30420 3 2027 Violet Cole
+
+Holwood Place 7362
+
+Luxembourg DCI 3008 1597 2260 9831 9829 907 $16000 9 2024 Federico Ruiz
+
+Harold Place 9050
+
+Tuvalu Visa 4208 9640 3976 7982 3266 388 $43577 5 2028 Parker Fields
+
+Tisbury Court 4453
+
+Gabon DCI 3026 9233 5966 3983 9135 351 $14471 2 2021 Dudley Berger
+
+Weston Rise 5993
+
+Sweden American Express 3711 760027 88106 7634 7489 $42855 3 2028 Ariel Frederick
+
+Lewisham High Street 9781
+
+France Visa 4378 2795 0105 6218 9116 878 $28852 9 2022 Rory Olsen
+
+Unwin Place 1370
+
+Ecuador JCB 3572 8267 2119 2664 7547 713 $25431 10 2029 Barbara Golden
+
+Lorne Close 5140
+
+Serbia Visa 4472 4457 4916 2747 2904 412 $43563 11 2027 Hallie Ramsey
+
+Dunsley Place 6730
+
+Romania Visa 4920 2201 6719 7691 1041 665 $35451 1 2025 Royce Nieves
+
+Phố Dominion 3953
+Các bác sĩ cho biết thêm:
+Malta China UnionPay 6258 1939 7257 5574 7130 642 $ 40336 4 2026 Julian GarzaOld Brompton Road 1437
+
+Saudi Arabia DCI 3045 3425 4030 0826 3508 459 $24121 7 2021 Amelie Williamson
+
+North End Crescent 8161
+
+Singapore Maestro 5020 8376 2596 0141 4274 591 $30150 7 2025 Harold Reilly
+
+Shenfield Street 8877
+
+Colombia China UnionPay 8800 8942 8677 6266 7188 476 $34829 9 2021 Mickey Vinson
+
+Dunloe Place 451
+
+Madagascar DCI 3019 3225 5944 7538 7847 250 $27908 6 2025 Salvador Rowe
+
+Chester Terrace Mews 5102
+
+Malaysia JCB 3554 2982 3547 4867 1753 164 $47874 6 2027 Rylee Bell
+
+St. Andrew's Grove 910
+
+Norway American Express 3449 975393 96673 5080 2193 $10993 6 2026 Margot Kemp
+
+Falconberg Mews 9925
+
+Poland Maestro 6762 5669 7709 0112 6124 332 $33792 1 2021 Tad Jackson
+
+Richmond Terrace Mews 3593
+
+Vietnam Mastercard 2249 8285 4213 6925 1786 191 $19574 3 2021 Herschel Owens
+
+Lancaster Drive 8138
+
+Christmas Island JCB 3584 0337 7439 9728 1881 829 $19549 11 2022 Ross Pearson
+
+St. Matthew's Court 4102
+
+Italy Mastercard 5536 3941 4626 2091 9375 965 $19521 8 2026 Rigoberto Walter
+
+Roman Road 5719
+
+France Visa 4662 0182 3933 3894 8636 709 $22688 8 2025 Wilson Kaufman
+
+Bardsley Lane 7139
+
+Hong Kong Visa 4253 8742 4088 3078 4491 699 $19392 3 2022 Johnny Dalton
+
+Dulwich Wood Avenue 6584
+
+Ireland China UnionPay 8882 4948 8579 1120 1351 182 $46890 6 2027 Jack Obrien
+
+Coal Wharf Road 9914
+
+Australia China UnionPay 6231 7906 7934 6860 2930 662 $23445 12 2027 Esmeralda
+
+Nielsen
+
+Redan Place 6012
+
+Kazakhstan JCB 3558 6664 2918 3674 8526 998 $49079 8 2025 Mae Ward
+
+Islington Park Street 6782
+
+United Kingdom Maestro 6762 1351 8976 1207 1226 843 $39989 4 2024 Naya Robertson
+
+Grantley Street 3481
+
+Netherlands Discover 6223 3763 0231 4416 4994 260 $36162 3 2029 Amy Erickson
+
+Rathbone Street 9991
+
+Angola Mastercard 2625 3006 4205 5417 9389 654 $21655 2 2027 Tuan Hutchinson
+
+Little Street 5575
+
+Lesotho Mastercard 2334 1347 7969 4942 3852 600 $32717 6 2026 Bailee Manning
+
+Passmore Street 9507
+
+Paraguay China UnionPay 8812 9592 7658 4065 3617 530 $20000 9 2027 Alaya Knowles
+
+Trinity Church Square 5431
+
+Puerto Rico Maestro 6761 4224 5846 0963 9735 443 $24413 11 2021 Efrain Hendrix
+
+Kingsmill Terrace 3564
+
+France American Express 3420 071590 64700 8799 9103 $32930 8 2023 Freeman Fox
+
+Wessex Street 5997
+
+Jamaica Visa 4333 1024 4849 7606 5242 937 $11221 4 2022 Elaina Small
+
+Hawes Street 3153
+
+Georgia Mastercard 2649 7265 6396 3522 6701 868 $34786 11 2022 Rosie Donovan
+
+Nantes Passage 8313
+
+Yemen JCB 3535 7932 0430 0550 5768 824 $40026 2 2028 Lina Green
+
+Phố Wheatley 2897
+Các bác sĩ cho biết thêm:Sweden JCB 3565 5689 3820 3822 6044 795 $20547 10 2026 Edwin May
+
+Đường Passmore 2569
+
+Visa Malta 4658 4950 4913 4926 3383 123 $ 22104 4 2021 Brenton Gilbert
+
+Bartletts Place 7908
+
+Hong Kong American Express 3482 442206 05682 4071 8017 $ 23724 11 2027 Camille
+
+Warner
+
+St. Andrew's Walk 756
+
+Vương quốc Anh Discover 6222 4912 9975 0596 3879 512 $ 45009 1 2021 Gino Merrill
+
+Shortlands 1295
+
+Ý American Express 3447 358372 88162 1303 5625 $ 10429 10 2028 Murray Preston
+
+Vườn Oakley 1528
+
+Canada DCI 3001 0898 4921 0782 6863 262 $ 35689 11 2023 Bailee Phillips
+
+Đường Sandbrook 4744
+
+Vương quốc Anh Discover 6226 5161 6969 7240 5706 285 $ 24449 10 2029 Ellianna Porter
+
+Unwin Place 7534
+
+Italy China UnionPay 6205 3862 4597 0424 7739 688 $ 46954 7 2027 Kora Tanner
+
+Glegg Place 987
+
+Vương quốc Anh Maestro 6763 2762 4620 5934 6410 459 $ 26356 9 2021 Amaris Wise
+
+Đoạn đường Dagmar 8448
+
+Slovenia American Express 3440 582879 91312 1651 7311 $ 13773 2 2023 Clare Holland
+
+Sân thượng Westbourne 3715
+
+Australia Discover 6225 2428 0854 7875 2937 907 $ 26202 3 2026 Kaia Mcclure
+
+Đường Bayswater 4102
+
+Hà Lan Maestro 6390 4941 7754 5134 6344 519 $ 26749 10 2024 Cory Mueller
+
+Glegg Place 2657
+
+Palau Discover 6221 9686 8393 8987 7532 469 $ 40152 3 2026 Glenn Carey
+
+Phố Cheseman 4755
+
+Georgia American Express 3464 017211 25139 2619 9804 $ 35993 3 2028 Hilario Fry
+
+Hoadly Cottages 6277
+
+Mexico American Express 3446 921468 02417 6327 7131 $ 24252 2 2023 Emmalynn
+
+Hicks
+
+Thoresby Street 6125
+
+Ý JCB 3540 6859 1183 2847 1342 771 $ 31796 10 2021 Người đặt trước Watts
+
+Oranmore Mews 6266
+
+Andorra American Express 3771 147032 59121 6342 9726 $ 36689 12 2027 Rene Bird
+
+Phố Brewer 1618
+
+Latvia American Express 3441 817527 58600 1451 5341 $ 38956 3 2025 Melissa Vance
+
+Đường Apsley 6578
+
+Thụy Điển China UnionPay 6205 8858 5089 6345 6592 790 $ 49899 12 2029 Courtney
+
+Dorsey
+
+Đường Winkley 840
+
+Eritrea DCI 3059 5795 0488 3171 4898 578 $ 27328 12 2029 Romeo Barker
+
+Đường của chị Bảy 4365
+
+Slovenia Maestro 5020 5766 7196 7200 8784 438 $ 21908 11 2027 Jeremiah Davis
+Các bác sĩ cho biết thêm:
+Emily Villas 8803
+
+Andorra American Express 3723 060036 03256 9973 4744 $ 36378 10 2022 Anabelle
+
+Blackwell
+
+Windsor Grove 9392
+
+Rwanda JCB 3566 8232 6686 9374 6612 892 $ 36850 12 2028 Leroy Bonner
+
+Norman Grove 3509
+Các bác sĩ cho biết thêm:
+Morocco Discover 6228 3207 8467 0783 5120 551 $ 44623 11 2027 Courtney Silva
+Các bác sĩ cho biết thêm:
+Đường Swan 7331Malaysia DCI 3053 2947 7401 7767 1213 979 $36236 2 2023 Donovan Hunt
+
+Marlborough Grove 1604
+
+Germany Maestro 6763 5747 1204 6679 4012 860 $33290 1 2027 Jerrell White
+
+Ship & Half Moon Passage 3778
+
+Italy China UnionPay 6254 2447 8869 1859 1579 745 $46138 4 2027 Aisha Vega
+
+Crown Works 5087
+
+Chile American Express 3491 266687 57910 4890 3911 $10041 11 2022 Rose Davenport
+
+Chester Square Mews 6035
+
+Brazil Maestro 6304 8239 1504 1128 2280 543 $44983 3 2027 Ivory Mendez
+
+Passey Place 332
+
+Togo Visa 4476 3651 0992 6752 1501 878 $34473 8 2027 Theron Ferguson
+
+John Adam Street 2709
+
+Turkmenistan American Express 3703 061327 26715 8837 5366 $28357 10 2025 Antonia
+
+Christian
+
+Minshull Street 2378
+
+Netherlands Mastercard 2660 6835 0316 2901 3112 721 $40302 5 2023 Michelle Farmer
+
+Pope Street 1283
+
+France JCB 3544 2848 3880 1345 5218 468 $13413 5 2029 Amina Alford
+
+Saunders Grove 360
+
+Singapore Maestro 0604 8678 5478 1814 9506 162 $13263 10 2021 Ali Hampton
+
+Brown Hart Gardens 1375
+
+Colombia JCB 3538 7766 1641 3852 6962 462 $27581 3 2024 Thanh Andrews
+
+Vicarage Crescent 7271
+
+United Kingdom DCI 3039 5361 0841 3479 5287 546 $20646 11 2021 Mallory Conley
+
+Ormiston Grove 1015
+
+United Kingdom Discover 6226 6551 5722 8707 7765 632 $46546 2 2029 Journee
+
+Morgan
+
+Ritchie Street 2733
+
+Jordan DCI 3024 0397 7296 0179 5587 398 $48248 4 2022 Domenic Gardner
+
+Bective Place 9171
+
+St. Helena China UnionPay 6273 0825 5603 1495 5109 465 $32929 8 2022 Roland
+
+Gilmore
+
+Modern Court 3876
+
+Bahrain Discover 6228 6377 7746 7194 7178 797 $28464 3 2021 Benny Kramer
+
+Battersea Church Road 5477
+
+Senegal Discover 6225 3979 3853 0140 7866 539 $35330 6 2028 Nataly Roy
+
+Kirkdale 2900
+
+Singapore Visa 4533 1442 3971 6412 1607 980 $38126 3 2021 Aurora Bridges
+
+Coley Street 652
+
+Gabon American Express 3780 203480 74164 5679 3724 $45527 5 2025 Clarence
+
+Hodges
+
+Angrave Terrace 544
+
+Togo DCI 3054 6722 6722 8034 9053 807 $39654 9 2028 Claudio David
+
+Creekside 8492
+
+Malta China UnionPay 8889 1487 3332 2800 3724 466 $37598 7 2026 Trey Byrd
+
+English Street 2742
+
+France Visa 4176 3718 2721 6933 2052 634 $30476 11 2023 Orville Davis
+
+Littlebury Road 9675
+
+Italy Visa 4498 7900 2090 5516 3095 982 $49786 6 2027 Milani Cobb
+
+Bayswater Road 9354
+
+Japan Discover 6221 2853 8362 7830 8983 783 $ 24379 12 2028 Elliott Collier
+Các bác sĩ cho biết thêm:
+Phố Rhoda 8052
+
+Chiltern Street 83
+
+Philippines Maestro 6390 2555 3133 1721 9720 408 $29840 1 2024 Delmer Hanson
+
+Edensor Place 6670
+
+Bangladesh American Express 3716 779363 46655 1957 6396 $34168 7 2024 Jennifer
+
+Haney
+
+Watergate 6591
+
+Cambodia China UnionPay 8853 5776 9982 2787 1731 521 $44106 7 2029 Itzel Mitchell
+
+Kelso Place 8133
+
+Greece China UnionPay 6258 6970 7106 3803 8531 624 $32767 5 2027 Malik Bowen
+
+Ilchester Gardens 9953
+
+Oman Mastercard 2411 1015 1873 1265 9959 877 $19125 6 2028 Alexis Roth
+
+Cavaye Place 6920
+
+Belgium Maestro 6390 0613 3756 5003 2653 654 $39016 10 2026 Dan Fox
+
+Foxes Dale 9390
+
+Norway DCI 3042 0717 0062 6489 8248 615 $46503 6 2021 Harmoni Short
+
+Rigault Road 6560
+
+Angola China UnionPay 6250 9103 4515 8582 1711 913 $27084 1 2023 Adalyn David
+
+Coulgate Street 1811
+
+Mozambique Discover 6224 9811 9717 2974 7792 203 $42356 8 2029 Dale Ballard
+
+Ainsworth Road 8580
+
+Colombia DCI 3006 8996 3113 5558 4102 270 $33725 4 2029 Thurman Schneider
+
+Lawrence Place 2334
+
+Ghana DCI 3672 7711 8246 6125 7185 270 $25158 3 2026 Penelope Rich
+
+Massingham Street 1932
+
+Serbia Discover 6225 3154 2520 7410 5572 729 $38091 6 2028 Isabella Grant
+
+Short Place 6966
+
+Puerto Rico DCI 3031 7390 4160 5361 4763 912 $39096 2 2029 Wilmer Bradley
+
+Taunton Place 688
+
+Suriname Discover 6221 5662 3400 4760 8458 253 $47129 1 2026 Maria Macias
+
+Ormiston Grove 6466
+
+Congo Maestro 6762 7811 9376 1442 5461 246 $40276 3 2029 Isaias Wooten
+
+St. Stephen's Close 1138
+
+St. Helena Visa 4990 4635 2273 7588 7229 765 $16914 4 2023 Gayle Mcfadden
+
+Epworth Street 7617
+
+Sweden American Express 3435 450798 58932 9788 1131 $42632 8 2029 Kelly Cain
+
+Hamilton Close 1803
+
+Seychelles China UnionPay 8878 9757 3672 6501 5352 174 $12232 2 2022 Adolph
+
+Dennis
+
+Grotto Court 6322
+
+United Kingdom JCB 3548 7091 2661 5086 1605 855 $47416 12 2025 Doyle Frye
+
+Rhondda Grove 2229
+
+New Zealand Mastercard 2282 5199 1714 1826 7606 807 $35478 11 2027 Rodney Ratliff
+
+Dewar Street 7393
+
+Netherlands Discover 6226 8835 6063 5223 9688 983 $13037 5 2022 Thurman
+
+Townsend
+
+Parkfield Road 7571
+
+Iceland Maestro 6762 8859 1707 7868 7712 819 $31240 4 2028 Sidney Mosley
+
+Graham Terrace 6648
+
+Na Uy American Express 3462 116987 41309 5718 7129 $ 37058 10 2023 Sidney
+Các bác sĩ cho biết thêm:
+Các bác sĩ cho biết thêm:Wallet
+
+Cân bằng:
+
+DỰ KIẾN 0,00 BTC
+
+0,00 BTC CÓ SN
+
+0,00 BTC ESTIMATED_SPENDABLE
+
+0,00 BTC AVAILABLE_SPENDABLE
+
+Giao dịch:
+
+0 đang chờ xử lý
+
+0 chưa tiêu
+
+0 đã chi tiêu
+
+0 người chết
+
+Khối tốt nhất được nhìn thấy lần cuối: 679594 (2021-04-17T16: 47: 53Z):
+
+0000000000000000000420fc55517dcdbbb1fed2c0747552ee656f5a855747db
+
+Các phím:
+
+Thời gian tạo sớm nhất: 2021-02-21T10: 47: 26Z
+
+Sinh nhật hạt giống: 1613904446 [2021-02-21T10: 47: 26Z]
+
+Loại tập lệnh đi lên: P2PKH
+
+Chìa khóa để xem:
+
+xpub69MN9gSYU3BM7qzX8MaYazuJJen8rXSvJ5HWLTUfJaw4tyKBQTNLqhyxWec6TnzTjKpz8AzKGTuWt
+
+jjqnHQo4RpRW1xe9pxi55uzfFA937b
+
+Lookahead siz / thr: 100/33
+
+addr: 1K9cLVoS5reNgMH2aP8VQCFLBhUY9eqvJk
+
+hash160: c71316c44dfc9dde211be92cb6ddd6054afad097 (M, root)
+
+addr: 1MErm7TRoMkic6HYTCedbr3oEMbvJGcxpH
+
+hash160: de0176104168225c664b1ec3ba22ef7053e76e2d (M / 0H, tài khoản)
+
+addr: 1Dhqz1c2fLQsn2UK8StABJ9hnNoWRKiEVY
+
+hash160: 8b5b096a0e13d6b42ecb328b8ee8f20bd9d3afca (M / 0H / 0, bên ngoài)
+
+addr: 1NP2byyPSn9mWHNDuHgePtqHswbbnRB8PW
+
+băm160: ea85217fb44d953f039894e49ad344361e1776dd (M / 0H / 1, nội bộ)
+
+addr: 1ArStEVKdwxcVMm7iAW6Vc5iz8EDopaAEp
+
+băm160: 6c131ed85f48996c2ff20313115fd896f9fe3dee (M / 0H / 0/0)
+
+Sinh nhật hạt giống: 1613904446 [2021-02-21T10: 47: 26Z]
+
+Loại tập lệnh đi lên: P2WPKH
+
+Chìa khóa để xem:
+
+zpub6o1tm1nNmQGJszvHo8JSMStPtfAakWehQoS7wGxovm9DPiBxvi5Nu3BKnjxgc5gARKwRNFLnok1bU
+
+5Ex8gDFNioWPxsE5tHxqCcJ1CKbWBf
+
+Lookahead siz / thr: 100/33
+
+addr: bc1qcuf3d3zdljwauggmayktdhwkq49045yhm4a9fd
+
+hash160: c71316c44dfc9dde211be92cb6ddd6054afad097 (M, root)
+
+addr: bc1q0q2gcfl96w3p963ysd05e64w8khtl87mala7xa
+
+hash160: 78148c27e5d3a212ea24835f4ceaae3daebf9fdb (M / 1H, tài khoản)
+
+addr: bc1qdwmzr2lewfx238j80tazpvzf2jy9npgju4uk9v
+
+băm160: 6bb621abf9724ca89e477afa20b0495488598512 (M / 1H / 0, bên ngoài)
+
+addr: bc1qgkfe76ajeaqzg8a8mwjn5zpzcnjxr8q5m2wk89
+
+hash160: 45939f6bb2cf40241fa7dba53a0822c4e4619c14 (M / 1H / 1, nội bộ)
+
+addr: bc1q9rnspmduytwk33w26dcnh4km2470zxa8hj4uun
+
+hash160: 28e700edbc22dd68c5cad3713bd6db557cf11ba7 (M / 1H / 0/0)
+
+addr: bc1qdxpudg09h7ytcehsun900jtmrn9pmmrqe3ty9l
+
+hash160: 6983c6a1e5bf88bc66f0e4caf7c97b1cca1dec60 (M / 1H / 0/1)
+
+addr: bc1qhd7m632fr4w6lkndl305sxd3rrxa72q9j9cym2
+
+băm160: bb7dbd45491d5dafda6dfc5f4819b118cddf2805 (M / 1H / 0/2)
+
+addr: bc1qkxx2n7ms7alsxhqqgr2pq7ahmgdk9efnsuyt8y
+
+băm160: b18ca9fb70f77f035c0040d4107bb7da1b62e533 (M / 1H / 0/3)
+
+addr: bc1qdk7v47gqyg603z4nw2qaz530lxhsrl6c9grh5m
+
+hash160: 6dbccaf9002234f88ab37281d1522ff9af01ff58 (M / 1H / 0/4)
+Dominguez
+Các bác sĩ cho biết thêm:
+B5EE9C72010243010010BA000226FF00F4A42022C00192F4A0E18AED535830F4A1010202012003040
+
+10AF4A420F4A106020120070801C8FF7F21ED44D020D749C2018E27D3FFD33FD300D3FFD3FFD307D3
+
+07F404F405F86DF86CF86FF86EF86BF86A7FF861F866F863F8628E2AF40570F86A70F86B6DF86C6DF
+
+86D70F86E70F86F70018040F40EF2BDD70BFFF86270F86370F8667FF861E2D300010500B88E1D8102
+
+00D71820F90101D3000194D3FF03019302F842E220F865F910F2A895D30001F27AE2D33F01F84321B
+
+9209F3020F8238103E8A882081B7740A0B9DE9320F863948034F2F0E230D31F01F823BCF2B9D31F01
+
+F001F8476E90DE0000020148090A02012022230201200B0C0201200F10006ADB7021C7009D22D073D
+
+721D70B00C0019090E2E021D70D1F90E15311C00090E0C103228210FFFFFFFDBCB190E001F001F847
+
+6E90DE01DBB6B66823BE105BA38ABB513434FFF4CFF4C034FFF4FFF4C1F4C1FD013D017E1B7E1B3E1
+
+BFE1BBE1AFE1A9FFE187E19BE18FE18B7B4CFF45C17D4234218000000000000000000000000000000
+
+0000000000000000000000000000000000011C1C32325C1BC2C87E1320103D0388200D01FE8E1901D
+
+33FD31FD307D307D3FFD307FA40D37FD30FD4D70A006F0B916DE221F2E066203355025F03C882100A
+
+D9A08E821080000000B1CF0B1F216F2B550A2BCF0B3F2ACF0B1F29CF0B0728CF0B0727CF0BFF26CF0
+
+B0725CF1624CF0B7F23CF0B0F22CF1421CF0A000B5F0BC8825860000000000000000000000000CF0B
+
+66210E009ECF31810398B99671CF4021CF179571CF4121CDE220C971FB005B30C0FF8E2CF842C8CBF
+
+FF843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E50CBFFCBFFCB07CB07F400F400C9ED54DE
+
+7FF86701BDB6C760B37E105BA38ABB513434FFF4CFF4C034FFF4FFF4C1F4C1FD013D017E1B7E1B3E1
+
+BFE1BBE1AFE1A9FFE187E19BE18FE18B7BE90657534743E9037F5C35FE575347434DFF7F5C3002575
+
+3474348037F5C30025753474348037F5345C2011020120181901EC8E80D8C88210131D82CD8210800
+
+00000B1CF0B1F21CF0B3FC8825860000000000000000000000000CF0B6621CF31810398B99671CF40
+
+21CF179571CF4121CDE220C971FB005B30F842C8CBFFF843CF0B3FF846CF0B00F84AF84BF84EF84FF
+
+84CF84D5E50CBFFCBFFCB07CB07F400F400C9ED547FF8671201AAF845206E923070DE5F20F84D8101
+
+00F40E209401D70B079170E221F2E06431312682080F4240BEF2E06B23D06D0170718E1122D74A945
+
+8D55AA49502D749A001E2226EE6583021812000B920943020C108DEF2E0791302DC8E80D8F84B5330
+
+7822A8AD8100FFB0B507313175B9F2E071F80053867271B1219D3072810080B1F8276F10B57F33DE5
+
+30255215F03F84F20C0018E325471CAC8CF8580CA0073CF40CE01FA02806ACF4029D0C8CE0121CF31
+
+21CF35BC94CF83CF1194CF81CF13E2C923FB005F0D701B14010A8E80E304D9150174F84B536071782
+
+3A8ACA03131F86BF823B53F8020ACF8258210FFFFFFFFB0B1207023705F2B5613539A561256156F0B
+
+5F2153906F13A4226F12BE1601AA8E53216F17226F16236F1AC8CF8580CA0073CF40CE01FA02806AC
+
+F40226F19D0C8CE0121CF3121CF35BC94CF83CF1194CF81CF13E2C9226F18FB00F84B226F15217178
+
+23A8ACA13131F86B22F84C8040F45B30F86C1700BC8E55216F112171B51F21AC22B1323022016F513
+
+253116F13A46F533222F84C236F2BC82BCF0B3F2ACF0B1F29CF0B0728CF0B0727CF0BFF26CF0B0725
+
+CF1624CF0B7F23CF0B0F22CF1421CF0A000B5F0B598040F443F86CE25F03210F5F0F01ADB553A076F
+
+C20B7471576A26869FFE99FE98069FFE9FFE983E983FA027A02FC36FC367C37FC377C35FC353FFC30
+
+FC337C31FC316F699FE8FC2290374918386F107C26C080807A07104A00EB8583C8B87110F97032189
+
+8C01A01C7B5F02871E98FE983E8B82F912F98B8DA8F91565861802AA02F82AA882DE441080FF02871
+
+C1084000000058E7858F90E7850064412C300000000000000000000000006785B310E798C081CC5CC
+
+B38E7A010E78BCAB8E7A090E6F11064B8FD802D98607FC02102A08E80D821F84C8040F40E208E1901
+
+D33FD31FD307D307D3FFD307FA40D37FD30FD4D70A006F0B916DE221F2E066206F11235F3171B51F2
+
+2ACB0C30055305F04B3F2E067F800547302216F13A4226F12BE1B1C01F4F823B53F810E10A18020AC
+
+F84C8040F4868E1A01D33FD31FD307D307D3FFD307FA40D37FD30FD4D70A006F0B7F8E2F705F608D0
+
+8600000000000000000000000000000000000000000000000000000000000000000047070C8C9706F
+
+0B70E25F2094305323BBDE20B3925F05E0F800709953119530208028B9DE1D01AA8E53216F17226F1
+
+6236F1AC8CF8580CA0073CF40CE01FA02806ACF40226F19D0C8CE0121CF3121CF35BC94CF83CF1194
+
+CF81CF13E2C9226F18FB00F84B226F1521717823A8ACA13131F86B22F84C8040F45B30F86C1F01FE8
+
+E7DA4F84B246F1521717823A8ACA13131F86B24F84C8040F45B30F86C24F84C8040F47C8E1A01D33F
+
+D31FD307D307D3FFD307FA40D37FD30FD4D70A006F0B7F8E2F705F608D08600000000000000000000
+
+000000000000000000000000000000000000000000000047070C8C9706F0B70E20237353353229430
+
+5345BBDE321E0062E8F842C8CBFFF843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E50CBFFC
+
+BFFCB07CB07F400F400C9ED54F80F5F0601FE8E55216F112171B51F21AC22B1323022016F51325311
+
+6F13A46F533222F84C236F2BC82BCF0B3F2ACF0B1F29CF0B0728CF0B0727CF0BFF26CF0B0725CF162
+
+4CF0B7F23CF0B0F22CF1421CF0A000B5F0B598040F443F86CE25F07F842C8CBFFF843CF0B3FF846CF
+
+0B00F84AF84BF84EF84FF84CF84D5E50CBFFCBFFCB07CB07200014F400F400C9ED547FF86700648E2
+
+CF842C8CBFFF843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E50CBFFCBFFCB07CB07F400F4
+
+00C9ED54DE7FF867020120242502012033340109B99DCC8D9026020120282901FCF8416E8E2AED44D
+
+0D3FFD33FD300D3FFD3FFD307D307F404F405F86DF86CF86FF86EF86BF86A7FF861F866F863F862DE
+
+FA4195D4D1D0FA40DFD70D7F95D4D1D0D37FDFD70C0095D4D1D0D200DFD70D0795D4D1D0D307DFD4D
+
+1F84EC001F2E06CF845206E923070DEF84ABAF2E064F800547342C8CF8580CA0073CF40CE012700AE
+
+FA02806ACF4021D0C8CE0121CF3121CF35BC94CF83CF1194CF81CF13E2C922FB005F05C0FF8E2CF84
+
+2C8CBFFF843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E50CBFFCBFFCB07CB07F400F400C9
+
+ED54DE7FF86701BBB62703437E105BA38ABB513434FFF4CFF4C034FFF4FFF4C1F4C1FD013D017E1B7
+
+E1B3E1BFE1BBE1AFE1A9FFE187E19BE18FE18B7B45C1B5BC09C1C3E1320103D21A3868074CFF4C7F4
+
+C1F4C1F4FFF4C1FE9034DFF4C3F535C2801BC2DFE02A0201662D2E01708E2F705F608D08600000000
+
+0000000000000000000000000000000000000000000000000000000047070C8C9706F0B70E20234Đường St. Pancras 9226
+Các bác sĩ cho biết thêm:303191202B01FC8E6C5F22C8CB3F016F2221A403598020F4436F023321F84C8040F47C8E1A01D33FD
+
+31FD307D307D3FFD307FA40D37FD30FD4D70A006F0B7F8E2F705F608D086000000000000000000000
+
+00000000000000000000000000000000000000000000047070C8C9706F0B70E202343031E85BC8821
+
+0509C0D0D821080000000B12C00DCCF0B1F216F2202CB1FF400C88258600000000000000000000000
+
+00CF0B6621CF31810398B99671CF4021CF179571CF4121CDE220C971FB005B30C0FF8E2CF842C8CBF
+
+FF843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E50CBFFCBFFCB07CB07F400F400C9ED54DE
+
+7FF8670107B0C819E92F0199B001B0B3F082DD1C55DA89A1A7FFA67FA601A7FFA7FFA60FA60FE809E
+
+80BF0DBF0D9F0DFF0DDF0D7F0D4FFF0C3F0CDF0C7F0C5BDA2E0DADE05F09B020201E90D2A03AE160E
+
+FF26E0E0E1C522413101FEF8416E8E2AED44D0D3FFD33FD300D3FFD3FFD307D307F404F405F86DF86
+
+CF86FF86EF86BF86A7FF861F866F863F862DED4D1C882107D729CC882107FFFFFFFB0CF0B1F21CF14
+
+C8825860000000000000000000000000CF0B6621CF31810398B99671CF4021CF179571CF4121CDE22
+
+0C971FB005B30F842C8CBFFF843CF0B3F30004AF846CF0B00F84AF84BF84EF84FF84CF84D5E50CBFF
+
+CBFFCB07CB07F400F400C9ED547FF86701FE8E375473126F026F22C822CF0B0721CF0BFF3131016F2
+
+221A403598020F4436F023422F84D810100F47C9501D70B077F93707070E202353331E85F03C88210
+
+5B00D859821080000000B1CF0B1F216F2202CB1FF400C8825860000000000000000000000000CF0B6
+
+621CF31810398B99671CF4021CF179571CF4121CDE220C932007271FB005B30C0FF8E2CF842C8CBFF
+
+F843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E50CBFFCBFFCB07CB07F400F400C9ED54DE7
+
+FF86702027635360201203C3D0107B03CD279370107B051BBD13A01FAF8416E8E5EED44D020D749C2
+
+018E27D3FFD33FD300D3FFD3FFD307D307F404F405F86DF86CF86FF86EF86BF86A7FF861F866F863F
+
+8628E2AF40570F86A70F86B6DF86C6DF86D70F86E70F86F70018040F40EF2BDD70BFFF86270F86370
+
+F8667FF861E2DEF84692F2339371F866E2D31FF404596F0201D307D1F845206E3801FC923070DEF84
+
+2BAF2E064216F10C200209730216F108020BBDEF2E075F8005F217070236F22318020F40EF2B2D70B
+
+FFF86A226F10709B5301B9209530228020B9DE8E3453046F22318020F40EF2B2D70BFF20F84D81010
+
+0F40E209131DEB38E145333A43521F84D5501C8CB0759810100F443F86DDE30A4E8305312BB912139
+
+00729122E2F86F21F86E5F06F842C8CBFFF843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E5
+
+0CBFFCBFFCB07CB07F400F400C9ED547FF86701FAF8416E8E2AED44D0D3FFD33FD300D3FFD3FFD307
+
+D307F404F405F86DF86CF86FF86EF86BF86A7FF861F866F863F862DED1758020810E1082080F4240F
+
+84FC882106D28DDE8821080000000B1CF0B1F25CF0B0724CF0B0723CF0B3F22CF0B7F21CF0B07C882
+
+5860000000000000000000000000CF0B6621CF31810398B93B00949671CF4021CF179571CF4121CDE
+
+220C971FB005B5F05C0FF8E2CF842C8CBFFF843CF0B3FF846CF0B00F84AF84BF84EF84FF84CF84D5E
+
+50CBFFCBFFCB07CB07F400F400C9ED54DE7FF86701CDB6C48BDCBE105BA38ABB513434FFF4CFF4C03
+
+4FFF4FFF4C1F4C1FD013D017E1B7E1B3E1BFE1BBE1AFE1A9FFE187E19BE18FE18B7B45C1B5BC0BE08
+
+ED4FE043842860082B3E1320103D21A3868074CFF4C7F4C1F4C1F4FFF4C1FE9034DFF4C3F535C2801
+
+BC2DFE03E0009B75CA7322001688E2F705F608D086000000000000000000000000000000000000000
+
+00000000000000000000000000047070C8C9706F0B70E291203F02FE8E80E85F04C8821073122F728
+
+21080000000B1CF0B1F216F2202CB1FF400C8825860000000000000000000000000CF0B6621CF3181
+
+0398B99671CF4021CF179571CF4121CDE220C971FB005B30C0FF8E2CF842C8CBFFF843CF0B3FF846C
+
+F0B00F84AF84BF84EF84FF84CF84D5E50CBFFCBFFCB07CB07F400F400C9ED54DE7F404101D25323BC
+
+8E4053416F2BC82BCF0B3F2ACF0B1F29CF0B0728CF0B0727CF0BFF26CF0B0725CF1624CF0B7F23CF0
+
+B0F22CF1421CF0A000B5F0B016F2221A403598020F4436F0235DE22F84C8040F47C8E1A01D33FD31F
+
+D307D307D3FFD307FA40D37FD30FD4D70A006F0B7F420004F867006C8E2F705F608D0860000000000
+
+0000000000000000000000000000000000000000000000000000000047070C8C9706F0B70E2023533
+Các bác sĩ cho biết thêm:
+Các bác sĩ cho biết thêm:14:52:40 [main] Context - Creating bitcoinj 0.15.10 context.
+
+14:52:40 [main] WalletApplication - === starting app using flavor: prod, build
+
+type: release, network: org.bitcoin.production
+
+14:52:40 [main] WalletApplication - created notification channels, took 18.37 ms
+
+14:52:40 [main] BootstrapReceiver - got broadcast: Intent {
+
+act=android.intent.action.BOOT_COMPLETED flg=0x89000010
+
+cmp=de.schildbach.wallet/.service.BootstrapReceiver (has extras) }
+
+14:52:40 [AsyncTask #1] StartBlockchainService - last used 2438 minutes ago and
+
+expecting large data, rescheduling block chain sync in roughly 720 minutes
+
+14:59:25 [main] Context - Creating bitcoinj 0.15.10 context.
+
+14:59:25 [main] WalletApplication - === starting app using flavor: prod, build
+
+type: release, network: org.bitcoin.production
+
+14:59:25 [main] WalletApplication - created notification channels, took 17.78 ms
+
+14:59:25 [main] BootstrapReceiver - got broadcast: Intent {
+
+act=android.intent.action.BOOT_COMPLETED flg=0x89000010
+
+cmp=de.schildbach.wallet/.service.BootstrapReceiver (has extras) }
+
+14:59:25 [AsyncTask # 1] StartBlockchainService - được sử dụng lần cuối 2445 phút trước và
+
+mong đợi dữ liệu lớn, lên lịch lại đồng bộ hóa chuỗi khối trong khoảng 720 phút
+
+23:08:40 [main] Ngữ cảnh - Tạo ngữ cảnh bitcoinj 0,15.10.
+
+23:08:40 [main] WalletApplication - === bắt đầu ứng dụng bằng cách sử dụng hương vị: sản phẩm, xây dựng
+
+loại: phát hành, mạng: org.bitcoin.production
+
+23:08:40 [main] WalletApplication - đã tạo các kênh thông báo, mất 7.893 mili giây
+
+23:08:40 [main] Cấu hình - vừa được sử dụng - được sử dụng lần cuối 2934 phút trước
+
+23:08:40 [pool-2-thread-1] WalletApplication - danh sách từ BIP39 được tải từ:
+
+'bip39-wordlist.txt', mất 24,27 mili giây
+
+23:08:41 [pool-2-thread-1] WalletApplication - ví được tải từ:
+
+'/data/user/0/de.schildbach.wallet/files/wallet-protobuf', mất 419,9 mili giây
+
+23:08:41 [OkHttp https: //api.coingecko.com / ...] ExchangeRatesRepository - đã tìm nạp
+
+tỷ giá hối đoái từ https://api.coingecko.com/api/v3/exchange_rates, mất 665,3
+
+bệnh đa xơ cứng
+
+23:08:41 [main] BlockchainService - mua lại WakeLock {e44e11d hold = false,
+
+refCount = 0}
+
+23:08:41 [main] BlockchainService - lệnh bắt đầu dịch vụ:
+
+de.schildbach.wallet.service.cancel_coins_receive
+
+23:08:41 [main] AbstractBlockChain - đầu chuỗi ở độ cao 672769:
+
+khối:
+
+băm: 0000000000000000000b2f54c048cd08a4cdecd7aee379ff2553aceab984fedf
+
+phiên bản: 939515904 (BIP34, BIP66, BIP65)
+
+khối trước:
+
+0000000000000000000621464723aa4ef3cad91b809d7a048102f7bc1c535efc
+
+thời gian: 1614652165 (2021-03-02T02: 29: 25Z)
+
+mục tiêu khó khăn (nBits): 386725091
+
+nonce: 2096620860
+
+23:08:42 [AsyncTask # 1] AlertDialogsFragment - theo
+
+"https://wallet.schildbach.de/version?
+
+package = de.schildbach.wallet & installer = com.android.vending & sdk = 30 & current = 814 ",
+
+phiên bản ứng dụng tối thiểu được khuyến nghị mạnh mẽ.google_play là "813"
+
+23:08:42 [AsyncTask # 1] AlertDialogsFragment - theo
+
+"https://wallet.schildbach.de/version?
+
+package = de.schildbach.wallet & installer = com.android.vending & sdk = 30 & current = 814 ",
+
+cấp bản vá bảo mật tối thiểu cho bluetooth là 2017-09-01
+
+23:08:42 [AsyncTask # 1] AlertDialogsFragment - tất cả đều tốt, không có hộp thoại cảnh báo nào được hiển thị
+
+23:08:42 [main] BlockchainService - mạng hoạt động được thiết lập, đo lường, loại: MOBILE,
+
+trạng thái: CONNECTED / CONNECTED, extraInfo: m3-world
+
+23:08:42 [main] BlockchainService - t
+http://lightning-wallet.com:8081/peers?srvmask=8
+
+23:08:42 [main] BlockchainService - active network is up, metered, type: MOBILE,
+
+state: CONNECTED/CONNECTED, extraInfo: m3-world
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting WITNESS peers from
+
+x8.seed.bitcoin.sprovoost.nl
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting WITNESS peers from
+
+x8.seed.bitcoin.jonasschnelli.ch
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting WITNESS peers from
+
+x8.seed.bitcoinstats.com
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting WITNESS peers from
+
+x8.seed.bitcoin.sipa.be
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting WITNESS peers from
+
+x8.dnsseed.emzy.de
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting WITNESS peers from
+
+x8.seed.btc.petertodd.org
+
+23:08:42 [Multiplexing discovery] HttpDiscovery - Requesting WITNESS peers from
+
+http://httpseed.bitcoin.schildbach.de/peers?srvmask=8
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting WITNESS peers from
+
+x8.dnsseed.bitcoin.dashjr.org
+
+23:08:42 [main] BlockchainService - trusted peer '176.194.148.90,' unknown host
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Seed
+
+seed.bitcoin.jonasschnelli.ch doesn't appear to support service bit filtering:
+
+Unable to resolve host "x8.seed.bitcoin.jonasschnelli.ch": No address associated
+
+with hostname
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting all peers from
+
+seed.bitcoin.jonasschnelli.ch
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Seed dnsseed.bitcoin.dashjr.org
+
+doesn't appear to support service bit filtering: Unable to resolve host
+
+"x8.dnsseed.bitcoin.dashjr.org": No address associated with hostname
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting all peers from
+
+dnsseed.bitcoin.dashjr.org
+
+23:08:42 [main] BlockchainService - trusted peer '3.129.216.175,' unknown host
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Got 21 peers from
+
+x8.dnsseed.bluematt.me
+
+23:08:42 [main] BlockchainService - trusted peer '104.16.40.77,' unknown host
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Seed seed.bitcoin.sipa.be
+
+doesn't appear to support service bit filtering: Unable to resolve host
+
+"x8.seed.bitcoin.sipa.be": No address associated with hostname
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting all peers from
+
+seed.bitcoin.sipa.be
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Seed seed.btc.petertodd.org
+
+doesn't appear to support service bit filtering: Unable to resolve host
+
+"x8.seed.btc.petertodd.org": No address associated with hostname
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting all peers from
+
+seed.btc.petertodd.org
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Got 25 peers from
+
+x8.seed.bitcoinstats.com
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Seed dnsseed.emzy.de doesn't
+
+appear to support service bit filtering: Unable to resolve host
+
+"x8.dnsseed.emzy.de": No address associated with hostname
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Requesting all peers from
+
+dnsseed.emzy.de
+
+23:08:42 [main] BlockchainService - trusted peer '3.209.12.198,' unknown host
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Got 23 peers from
+
+seed.btc.petertodd.org
+
+23:08:42 [main] BlockchainService - trusted peer '151.101.65.195,' unknown host
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Got 26 peers from
+
+dnsseed.emzy.de
+
+23:08:42 [main] BlockchainService - trusted peer '151.101.1.195' resolved to
+
+151.101.1.195
+
+23:08:42 [main] BlockchainService - trusted peer '15.236.224.135,' unknown host
+
+23:08:42 [Multiplexing discovery] DnsDiscovery - Got 25 peers from
+
+seed.bitcoin.sipa.be
+
+23:08:43 [main] BlockchainService - trusted peer '13.53.40.179,' unknown host
+
+ạo org.bitcoinj.core.PeerGroup@b32b266,
+
+chế độ đồng bộ: FULL
+
+23:08:42 [main] BlockchainService - thêm các đồng nghiệp ngẫu nhiên từ mạng P2P
+
+23:08:42 [main] BlockchainService - bắt đầu org.bitcoinj.core.PeerGroup@b32b266
+
+không đồng bộ
+
+23:08:42 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng - Đang bắt đầu ...
+
+23:08:42 [Khám phá ghép kênh] DnsDiscovery - Yêu cầu các đồng nghiệp WITNESS từ
+
+x8.dnsseed.bluematt.me
+Các bác sĩ cho biết thêm:23:08:48 [NioClientManager] NioClientManager - Connected to
+
+seed.bitcoin.sprovoost.nl/87.180.254.71:8333
+
+23:08:48 [NioClientManager] Peer - Announcing to
+
+seed.bitcoin.sprovoost.nl/87.180.254.71:8333 as: /bitcoinj:0.15.10/Bitcoin
+
+Wallet:8.14/
+
+23:08:48 [NioClientManager] NioClientManager - Connected to
+
+seed.btc.petertodd.org/37.187.153.29:8333
+
+23:08:48 [NioClientManager] Peer - Announcing to
+
+seed.btc.petertodd.org/37.187.153.29:8333 as: /bitcoinj:0.15.10/Bitcoin
+
+Wallet:8.14/
+
+23:08:48 [NioClientManager] NioClientManager - Connected to
+
+x8.seed.bitcoinstats.com/39.107.234.140:8333
+
+23:08:48 [NioClientManager] Peer - Announcing to
+
+x8.seed.bitcoinstats.com/39.107.234.140:8333 as: /bitcoinj:0.15.10/Bitcoin
+
+Wallet:8.14/
+
+23:08:48 [NioClientManager] Peer - Peer{[103.239.19.142]:8333, version=70015,
+
+subVer=/Satoshi:0.18.0/, services=1037 (NETWORK, BLOOM, WITNESS,
+
+NETWORK_LIMITED), time=2021-07-04 06:08:49, height=689563}
+
+23:08:48 [NioClientManager] PeerGroup - Peer{[103.239.19.142]:8333,
+
+version=70015, subVer=/Satoshi:0.18.0/, services=1037 (NETWORK, BLOOM, WITNESS,
+
+NETWORK_LIMITED), time=2021-07-04 06:08:49, height=689563}: New peer (2
+
+connected, 5 pending, 6 max)
+
+23:08:48 [NioClientManager] Peer - Peer{[37.187.153.29]:8333, version=70015,
+
+subVer=/Satoshi:0.20.1/, services=1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time=2021-07-04 06:08:49, height=689563}
+
+23:08:48 [NioClientManager] PeerGroup - Peer{[37.187.153.29]:8333, version=70015,
+
+subVer=/Satoshi:0.20.1/, services=1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time=2021-07-04 06:08:49, height=689563}: New peer (3 connected, 4 pending,
+
+6 max)
+
+23:08:48 [NioClientManager] Peer - Peer{[87.180.254.71]:8333, version=70015,
+
+subVer=/Satoshi:0.19.0.1/, services=1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time=2021-07-04 06:08:49, height=689563}
+
+23:08:48 [NioClientManager] PeerGroup - Peer{[87.180.254.71]:8333, version=70015,
+
+subVer=/Satoshi:0.19.0.1/, services=1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time=2021-07-04 06:08:49, height=689563}: New peer (4 connected, 3 pending,
+
+6 max)
+
+23:08:48 [NioClientManager] PeerGroup - Setting download peer:
+
+Peer{[103.239.19.142]:8333, version=70015, subVer=/Satoshi:0.18.0/, services=1037
+
+(NETWORK, BLOOM, WITNESS, NETWORK_LIMITED), time=2021-07-04 06:08:49,
+
+height=689563}
+
+23:08:48 [NioClientManager] Peer - Peer{[39.107.234.140]:8333, version=70015,
+
+subVer=/Satoshi:0.16.3/, services=1037 (NETWORK, BLOOM, WITNESS,
+
+NETWORK_LIMITED), time=2021-07-04 06:08:48, height=689563}
+
+23:08:48 [NioClientManager] PeerGroup - Peer{[39.107.234.140]:8333,
+
+version=70015, subVer=/Satoshi:0.16.3/, services=1037 (NETWORK, BLOOM, WITNESS,
+
+NETWORK_LIMITED), time=2021-07-04 06:08:48, height=689563}: New peer (5
+
+connected, 2 pending, 6 max)
+
+23:08:49 [NioClientManager] PeerGroup - [39.107.234.140]:8333: Peer died (4
+
+connected, 2 pending, 6 max)
+
+23:08:50 [NioClientManager] PeerGroup - [35.194.184.247]: 8333: Peer chết (3
+Các bác sĩ cho biết thêm:
+đã kết nối, 2 đang chờ xử lý, tối đa 6)
+
+23:08:50 [PeerGroup Thread] PeerGroup - Waiting 1499 ms before next connect
+
+attempt to [189.39.6.82]:8333
+
+23:08:51 [PeerGroup Thread] PeerGroup - Attempting connection to
+
+[69.12.80.84]:8333 (3 connected, 3 pending, 6 max)
+
+23:08:51 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 1
+
+blocks/sec, 1747 tx/sec, 0 pre-filtered tx/sec, avg/last 62.55/1224.44 kilobytes
+
+per sec, chain/common height 672770/689563 (warming up 12 more seconds)
+
+23:08:51 [NioClientManager] NioClientManager - Connected to
+
+seed.bitcoin.sipa.be/69.12.80.84:8333
+
+23:08:51 [NioClientManager] Peer - Announcing to
+
+seed.bitcoin.sipa.be/69.12.80.84:8333 như: /bitcoinj:0.15.10/ Ví Bitcoin: 8.14 /
+Các bác sĩ cho biết thêm:
+23:08:52 [NioClientManager] Peer - Peer {[69.12.80.84]: 8333, version = 70015,
+Các bác sĩ cho biết thêm:
+subVer = / Satoshi: 0,20.1 /, services = 1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+Các bác sĩ cho biết thêm:
+time = 2021-07-04 06:08:52, height = 689563}
+23:08:42 [Khám phá ghép kênh] HttpDiscovery - Yêu cầu các đồng nghiệp NHÂN CHỨNG TỪ
+3123:08:52 [NioClientManager] PeerGroup - Peer{[69.12.80.84]:8333, version=70015,
+
+subVer=/Satoshi:0.20.1/, services=1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time=2021-07-04 06:08:52, height=689563}: New peer (4 connected, 2 pending,
+
+6 max)
+
+23:08:52 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 2
+
+blocks/sec, 4729 tx/sec, 0 pre-filtered tx/sec, avg/last 189.03/2531.10 kilobytes
+
+per sec, chain/common height 672772/689563 (warming up 11 more seconds)
+
+23:08:53 [PeerGroup Thread] PeerGroup - Attempting connection to
+
+[189.39.6.82]:8333 (4 connected, 3 pending, 6 max)
+
+23:08:53 [NioClientManager] PeerGroup - [69.12.80.84]:8333: Peer died (3
+
+connected, 3 pending, 6 max)
+
+23:08:53 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 2
+
+blocks/sec, 4728 tx/sec, 0 pre-filtered tx/sec, avg/last 315.58/2532.60 kilobytes
+
+per sec, chain/common height 672774/689563 (warming up 10 more seconds)
+
+23:08:53 [main] BlockchainService - onUnbind: Intent {
+
+cmp=de.schildbach.wallet/.service.BlockchainService }
+
+23:08:53 [NioClientManager] NioClientManager - Đã kết nối với
+
+dnsseed.emzy.de/189.39.6.82:8333
+
+23:08:53 [NioClientManager] Peer - Thông báo cho dnsseed.emzy.de/189.39.6.82:8333
+
+như: /bitcoinj:0.15.10/ Ví Bitcoin: 8.14 /
+
+23:08:54 [Chủ đề tự động lưu của ví] WalletFiles - Ví tiết kiệm trong nền; Cuối cùng
+
+khối đã thấy có chiều cao 672775, ngày 2021-03-02T03: 23: 31Z, băm
+
+0000000000000000000b5c1c43feb57079ad78497e1d5b978cdd85c41644569a
+
+23:08:54 [Chủ đề tự động lưu trên Wallet] WalletFiles - Hoàn tất lưu sau 140,5 mili giây
+
+23:08:54 [NioClientManager] Peer - Peer {[189.39.6.82]: 8333, version = 70015,
+
+subVer = / Satoshi: 0.19.0.1/, services = 1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time = 2021-07-04 06:08:54, height = 689563}
+
+23:08:54 [NioClientManager] PeerGroup - Peer {[189.39.6.82]: 8333, version = 70015,
+
+subVer = / Satoshi: 0.19.0.1/, services = 1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time = 2021-07-04 06:08:54, height = 689563}: Đồng đẳng mới (4 được kết nối, 2 đang chờ xử lý,
+
+Tối đa 6)
+
+23:08:54 [main] BlockchainService - lệnh bắt đầu dịch vụ:
+
+de.schildbach.wallet.service.cancel_coins_receive
+Các bác sĩ cho biết thêm:
+23:08:54 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainTải xuốngTốc độCalculator - 3
+
+khối / giây, 7184 tx / giây, 0 tx / giây được lọc trước, trung bình / cuối cùng 507,88 / 3847,56 kilobyte
+
+mỗi giây, dây xích / chiều cao chung 672777/689563 (nóng lên thêm 9 giây)
+
+23:08:55 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainTải xuốngTốc độCalculator - 4
+
+khối / giây, 10335 tx / giây, 0 tx / giây được lọc trước, trung bình / cuối cùng 755,84 / 4960,84
+
+kilobyte mỗi giây, chuỗi / chiều cao chung 672782/689563 (khởi động thêm 8 giây)
+
+23:08:56 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainDownloadSpeedCalculator - 5
+
+khối / giây, 9911 tx / giây, 0 tx / giây được lọc trước, trung bình / 1104,24 / 6969,46 cuối cùng
+
+kilobyte mỗi giây, chuỗi / chiều cao chung 672786/689563 (khởi động thêm 7 giây)
+
+23:08:57 [Chủ đề tự động lưu ví] WalletFiles - Ví tiết kiệm nền; Cuối cùng
+
+khối nhìn thấy có chiều cao 672789, ngày 2021-03-02T06: 04: 25Z, băm
+
+00000000000000000009e2386255df7bbe7a14f416fb40bd1444000a02fffe74
+
+23:08:57 [Chủ đề tự động lưu trên Wallet] WalletFiles - Hoàn tất quá trình lưu trong 59,85 mili giây
+
+23:08:57 [main] ReportIssueDialogFragment - mở hộp thoại
+
+de.schildbach.wallet.ui.ReportIssueDialogFragment
+
+23:08:57 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainTải xuốngTốc độCalculator - 5
+
+khối / giây, 11601 tx / giây, 0 tx / giây được lọc trước, trung bình / cuối cùng 1430,73 / 6531,50
+
+kilobyte mỗi giây, chuỗi / chiều cao chung 672791/689563 (nóng lên thêm 6 giây)
+
+23:08:58 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainDownloadSpeedCalculator - 5
+
+khối / giây, 11363 tx / giây, 0 tx / giây được lọc trước, trung bình / cuối cùng 1749,06 / 6367,99
+
+kilobyte mỗi giây, chuỗi / chiều cao chung 672796/689563 (nóng lên thêm 5 giây)
+
+23:08:59 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainTải xuốngTốc độCalculator - 4
+
+khối / giây, 10459 tx / giây, 0 tx / giây được lọc trước, trung bình / cuối năm 1991,13 / 4843,10
+
+kilobyte mỗi giây, chuỗi / chiều cao chung 672800/689563 (khởi động thêm 4 giây)
+
+23:09:00 [Chủ đề tự động lưu của ví] WalletFiles - Ví lưu trong nền; Cuối cùng
+
+khối nhìn thấy có chiều cao 672804, ngày 2021-03-02T07: 47: 34Z, băm
+
+0000000000000000000666944ea8f811b453e8687f3acb613ff20ec0088ac43c
+
+23:09:00 [Chủ đề tự động lưu trên Wallet] WalletFiles - Hoàn tất quá trình lưu trong 44,39 mili giây
+
+23:09:00 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainTải xuốngTốc độCalculator - 5
+
+block / seconds, 10908 tx / seconds, 0 tx / seconds is filter before, the center / last 2302,74 / 6233,66
+Các bác sĩ cho biết thêm:
+kilobyte mỗi giây, chiều rộng / chiều cao chuỗi 672806/689563 (thêm 3 giây)
+Các bác sĩ cho biết thêm:blocks/sec, 10777 tx/sec, 0 pre-filtered tx/sec, avg/last 2620.36/6354.08
+
+kilobytes per sec, chain/common height 672810/689563 (warming up 2 more seconds)
+
+23:09:02 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 11358 tx/sec, 0 pre-filtered tx/sec, avg/last 2923.32/6060.64
+
+kilobytes per sec, chain/common height 672815/689563 (warming up 1 more seconds)
+
+23:09:03 [AbstractTimeoutHandler timeouts] PeerSocketHandler -
+
+[151.101.1.195]:8333: Timed out
+
+23:09:03 [AbstractTimeoutHandler timeouts] PeerGroup - [151.101.1.195]:8333: Peer
+
+died (4 connected, 1 pending, 6 max)
+
+23:09:03 [PeerGroup Thread] PeerGroup - Waiting 999 ms before next connect
+
+attempt to [34.92.136.198]:8333
+
+23:09:03 [AbstractTimeoutHandler timeouts] PeerSocketHandler -
+
+[83.254.44.20]:8333: Timed out
+
+23:09:03 [AbstractTimeoutHandler timeouts] PeerGroup - [83.254.44.20]:8333: Peer
+
+died (4 connected, 0 pending, 6 max)
+
+23:09:03 [PeerGroup Thread] PeerGroup - Waiting 1498 ms before next connect
+
+attempt to [140.82.16.158]:8333
+
+23:09:03 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672819, date 2021-03-02T10:07:05Z, hash
+
+00000000000000000003c6cf4eda197462528d829d090c926b8aa1d318f04451
+
+23:09:03 [Wallet autosave thread] WalletFiles - Save completed in 34.35 ms
+
+23:09:03 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 10164 tx/sec, 0 pre-filtered tx/sec, avg/last 3223.95/6014.23
+
+kilobytes per sec, chain/common height 672820/689563 (warming up 0 more seconds)
+
+23:09:04 [PeerGroup Thread] PeerGroup - Waiting 530 ms before next connect
+
+attempt to [34.92.136.198]:8333
+
+23:09:04 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 9405 tx/sec, 0 pre-filtered tx/sec, avg/last 3475.44/5031.44
+
+kilobytes per sec, chain/common height 672825/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:04 [PeerGroup Thread] PeerGroup - Attempting connection to
+
+[140.82.16.158]:8333 (4 connected, 1 pending, 6 max)
+
+23:09:04 [PeerGroup Thread] PeerGroup - Attempting connection to
+
+[34.92.136.198]:8333 (4 connected, 2 pending, 6 max)
+
+23:09:04 [PeerGroup Thread] PeerGroup - Attempting connection to
+
+[178.41.4.0]:8333 (4 connected, 3 pending, 6 max)
+
+23:09:05 [NioClientManager] NioClientManager - Connected to
+
+seed.bitcoin.sprovoost.nl/34.92.136.198:8333
+
+23:09:05 [NioClientManager] Peer - Announcing to
+
+seed.bitcoin.sprovoost.nl/34.92.136.198:8333 as: /bitcoinj:0.15.10/Bitcoin
+
+Wallet:8.14/
+
+23:09:05 [NioClientManager] NioClientManager - Connected to
+
+x8.seed.bitcoinstats.com/140.82.16.158:8333
+
+23:09:05 [NioClientManager] Peer - Announcing to
+
+x8.seed.bitcoinstats.com/140.82.16.158:8333 as: /bitcoinj:0.15.10/Bitcoin
+
+Wallet:8.14/
+
+23:09:05 [NioClientManager] NioClientManager - Connected to
+
+dnsseed.emzy.de/178.41.4.0:8333
+
+23:09:05 [NioClientManager] Peer - Announcing to dnsseed.emzy.de/178.41.4.0:8333
+
+as: /bitcoinj:0.15.10/Bitcoin Wallet:8.14/
+
+23:09:05 [NioClientManager] Peer - Peer{[34.92.136.198]:8333, version=70015,
+
+subVer=/Satoshi:0.20.1/, services=1037 (NETWORK, BLOOM, WITNESS,
+
+NETWORK_LIMITED), time=2021-07-04 06:09:05, height=689563}
+
+23:09:05 [NioClientManager] PeerGroup - Peer{[34.92.136.198]:8333, version=70015,
+
+subVer=/Satoshi:0.20.1/, services=1037 (NETWORK, BLOOM, WITNESS,
+
+NETWORK_LIMITED), time=2021-07-04 06:09:05, height=689563}: New peer (5
+
+connected, 2 pending, 6 max)
+
+23:09:05 [NioClientManager] Peer - Peer{[140.82.16.158]:8333, version=70015,
+
+subVer=/Satoshi:0.20.1/, services=1032 (WITNESS, NETWORK_LIMITED), time=2021-07-
+
+04 06:09:05, height=689563}
+
+23:09:05 [NioClientManager] PeerGroup - Peer{[140.82.16.158]:8333, version=70015,
+
+subVer=/Satoshi:0.20.1/, services=1032 (WITNESS, NETWORK_LIMITED), time=2021-07-
+
+04 06:09:05, height=689563}: New peer (6 connected, 1 pending, 6 max)
+
+23:09:05 [NioClientManager] Peer - Peer{[178.41.4.0]:8333, version=70016,
+
+subVer=/Satoshi:0.21.0/, services=1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+Các bác sĩ cho biết thêm:
+23:09:01 [Nhóm hàng ngang] Ngang hàng $ ChainTải xuống Máy tính mức - 5
+time=2021-07-04 06:09:05, height=689563}
+
+23:09:05 [NioClientManager] PeerGroup - Peer{[178.41.4.0]:8333, version=70016,
+
+subVer=/Satoshi:0.21.0/, services=1033 (NETWORK, WITNESS, NETWORK_LIMITED),
+
+time=2021-07-04 06:09:05, height=689563}: New peer (7 connected, 0 pending,
+
+6 max)
+
+23:09:05 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 11308 tx/sec, 0 pre-filtered tx/sec, avg/last 3731.20/5116.60
+
+kilobytes per sec, chain/common height 672828/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:06 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672834, date 2021-03-02T12:32:37Z, hash
+
+000000000000000000003de0ae58c4f136cd91330b3870f66d6d372adc18f557
+
+23:09:06 [Wallet autosave thread] WalletFiles - Save completed in 25.25 ms
+
+23:09:06 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 6
+
+blocks/sec, 12585 tx/sec, 0 pre-filtered tx/sec, avg/last 4095.59/7289.47
+
+kilobytes per sec, chain/common height 672834/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:07 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 11627 tx/sec, 0 pre-filtered tx/sec, avg/last 4352.53/5140.38
+
+kilobytes per sec, chain/common height 672838/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:08 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 8383 tx/sec, 0 pre-filtered tx/sec, avg/last 4596.28/4876.47
+
+kilobytes per sec, chain/common height 672843/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:09 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 10344 tx/sec, 0 pre-filtered tx/sec, avg/last 4866.69/5408.17
+
+kilobytes per sec, chain/common height 672847/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:09 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672847, date 2021-03-02T15:12:37Z, hash
+
+0000000000000000000638324c0efc422beb31637d03d98dd8ba6d2a1d241d80
+
+23:09:09 [Wallet autosave thread] WalletFiles - Save completed in 36.35 ms
+
+23:09:10 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 13630 tx/sec, 0 pre-filtered tx/sec, avg/last 5176.21/6190.44
+
+kilobytes per sec, chain/common height 672851/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:11 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 11138 tx/sec, 0 pre-filtered tx/sec, avg/last 5431.27/6325.62
+
+kilobytes per sec, chain/common height 672856/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:12 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 3
+
+blocks/sec, 8680 tx/sec, 0 pre-filtered tx/sec, avg/last 5503.59/3977.62
+
+kilobytes per sec, chain/common height 672860/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:13 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672861, date 2021-03-02T18:10:12Z, hash
+
+0000000000000000000ba5f157de1edab414808a17ae87091fa1736dffa4dc0b
+
+23:09:13 [Wallet autosave thread] WalletFiles - Save completed in 31.42 ms
+
+23:09:13 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 10943 tx/sec, 0 pre-filtered tx/sec, avg/last 5684.72/6155.12
+
+kilobytes per sec, chain/common height 672865/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:14 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 13236 tx/sec, 0 pre-filtered tx/sec, avg/last 5803.64/6226.01
+
+kilobytes per sec, chain/common height 672869/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:15 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 3
+
+blocks/sec, 8932 tx/sec, 0 pre-filtered tx/sec, avg/last 5740.93/3706.60
+
+kilobytes per sec, chain/common height 672873/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:16 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672874, date 2021-03-02T19:29:43Z, hash
+
+00000000000000000008a5300e2b87829166752d5a5718fbfcc58aed9b4731e2
+
+23:09:16 [Chủ đề tự động lưu trên Wallet] WalletFiles - Lưu hoàn tất trong 29,93 msCác bác sĩ cho biết thêm:
+Các bác sĩ cho biết thêm:23:09:16 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 13703 tx/sec, 0 pre-filtered tx/sec, avg/last 5714.04/6431.78
+
+kilobytes per sec, chain/common height 672877/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:17 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 9192 tx/sec, 0 pre-filtered tx/sec, avg/last 5708.64/6423.32
+
+kilobytes per sec, chain/common height 672882/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:18 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 9352 tx/sec, 0 pre-filtered tx/sec, avg/last 5656.62/5327.75
+
+kilobytes per sec, chain/common height 672886/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:19 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672889, date 2021-03-02T21:10:43Z, hash
+
+00000000000000000006abd56edba7590bc35e763956d7f6de37e7576e224185
+
+23:09:19 [Wallet autosave thread] WalletFiles - Save completed in 29.96 ms
+
+23:09:19 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 10374 tx/sec, 0 pre-filtered tx/sec, avg/last 5671.30/5136.69
+
+kilobytes per sec, chain/common height 672891/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:20 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 12068 tx/sec, 0 pre-filtered tx/sec, avg/last 5677.93/6366.28
+
+kilobytes per sec, chain/common height 672895/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:21 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 9719 tx/sec, 0 pre-filtered tx/sec, avg/last 5654.04/5876.21
+
+kilobytes per sec, chain/common height 672899/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:22 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672903, date 2021-03-03T00:13:22Z, hash
+
+00000000000000000006a150227791fbd26cd2ce3275d6113ad21370737c343c
+
+23:09:22 [Wallet autosave thread] WalletFiles - Save completed in 28.03 ms
+
+23:09:22 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 10022 tx/sec, 0 pre-filtered tx/sec, avg/last 5661.64/6212.61
+
+kilobytes per sec, chain/common height 672904/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:23 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 10228 tx/sec, 0 pre-filtered tx/sec, avg/last 5628.49/5351.32
+
+kilobytes per sec, chain/common height 672909/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:24 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 6
+
+blocks/sec, 9400 tx/sec, 0 pre-filtered tx/sec, avg/last 5775.01/7961.67
+
+kilobytes per sec, chain/common height 672914/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:25 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672919, date 2021-03-03T02:10:09Z, hash
+
+00000000000000000002cceec7535ad251846394a27a72e8153d055618401e92
+
+23:09:25 [Wallet autosave thread] WalletFiles - Save completed in 23.45 ms
+
+23:09:25 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 6
+
+blocks/sec, 10081 tx/sec, 0 pre-filtered tx/sec, avg/last 5892.27/7461.84
+
+kilobytes per sec, chain/common height 672920/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:26 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 6
+
+blocks/sec, 10256 tx/sec, 0 pre-filtered tx/sec, avg/last 5895.75/7359.05
+
+kilobytes per sec, chain/common height 672926/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:27 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 6064 tx/sec, 0 pre-filtered tx/sec, avg/last 6000.72/7239.77
+
+kilobytes per sec, chain/common height 672932/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:28 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672939, date 2021-03-03T04:08:52Z, hash
+
+0000000000000000000402c774ff359bc512a63a85df66b9769a59897006b28c
+
+23:09:28 [Wallet autosave thread] WalletFiles - Save completed in 45.86 ms
+
+23:09:28 [Chuỗi nhóm ngang hàng] Nhóm ngang hàng $ ChainTải xuốngTốc độCalculator - 8
+Các bác sĩ cho biết thêm:blocks/sec, 10526 tx/sec, 0 pre-filtered tx/sec, avg/last 6233.19/9525.89
+
+kilobytes per sec, chain/common height 672940/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:29 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 6
+
+blocks/sec, 8306 tx/sec, 0 pre-filtered tx/sec, avg/last 6356.97/7883.73
+
+kilobytes per sec, chain/common height 672946/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:30 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 6
+
+blocks/sec, 10147 tx/sec, 0 pre-filtered tx/sec, avg/last 6475.08/8552.78
+
+kilobytes per sec, chain/common height 672951/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:31 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 9460 tx/sec, 0 pre-filtered tx/sec, avg/last 6439.40/5612.04
+
+kilobytes per sec, chain/common height 672955/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:31 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672955, date 2021-03-03T07:56:02Z, hash
+
+0000000000000000000398db66b4b424e9023f4ecb8bab25421de281eb653937
+
+23:09:31 [Wallet autosave thread] WalletFiles - Save completed in 35.90 ms
+
+23:09:32 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 9139 tx/sec, 0 pre-filtered tx/sec, avg/last 6555.62/6301.86
+
+kilobytes per sec, chain/common height 672960/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:33 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 11921 tx/sec, 0 pre-filtered tx/sec, avg/last 6491.19/4866.66
+
+kilobytes per sec, chain/common height 672964/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:34 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 12563 tx/sec, 0 pre-filtered tx/sec, avg/last 6483.72/6076.55
+
+kilobytes per sec, chain/common height 672969/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:34 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672969, date 2021-03-03T10:10:10Z, hash
+
+0000000000000000000a7ec62d1280515d84bb9851eaa7d215627343fa06ce3b
+
+23:09:34 [Wallet autosave thread] WalletFiles - Save completed in 32.08 ms
+
+23:09:35 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 10289 tx/sec, 0 pre-filtered tx/sec, avg/last 6546.92/4970.65
+
+kilobytes per sec, chain/common height 672973/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:36 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 10307 tx/sec, 0 pre-filtered tx/sec, avg/last 6468.01/4853.48
+
+kilobytes per sec, chain/common height 672977/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:37 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 13027 tx/sec, 0 pre-filtered tx/sec, avg/last 6457.96/6222.37
+
+kilobytes per sec, chain/common height 672982/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:38 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 672982, date 2021-03-03T11:58:20Z, hash
+
+0000000000000000000727863341b79eaee48d83af3851991b7f43fda77ffc2f
+
+23:09:38 [Wallet autosave thread] WalletFiles - Save completed in 42.68 ms
+
+23:09:38 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 3
+
+blocks/sec, 6336 tx/sec, 0 pre-filtered tx/sec, avg/last 6376.28/3694.10
+
+kilobytes per sec, chain/common height 672985/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:39 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 2
+
+blocks/sec, 6002 tx/sec, 0 pre-filtered tx/sec, avg/last 6242.06/2452.42
+
+kilobytes per sec, chain/common height 672987/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:40 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 10563 tx/sec, 0 pre-filtered tx/sec, avg/last 6169.92/4923.35
+
+kilobytes per sec, chain/common height 672991/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:41 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+khối đã thấy có chiều cao 672992, ngày 2021-03-03T13: 36: 27Z, băm<0.78 KB/sec for 20 seconds)
+
+23:09:53 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 673041, date 2021-03-03T21:38:14Z, hash
+
+0000000000000000000599d30dd5115c847d9eb0787e9f2160c83ea580ba0ec1
+
+23:09:53 [Wallet autosave thread] WalletFiles - Save completed in 25.49 ms
+
+23:09:53 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 12134 tx/sec, 0 pre-filtered tx/sec, avg/last 4838.36/4987.58
+
+kilobytes per sec, chain/common height 673042/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:54 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 5
+
+blocks/sec, 11082 tx/sec, 0 pre-filtered tx/sec, avg/last 4831.51/5939.64
+
+kilobytes per sec, chain/common height 673048/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:55 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 9269 tx/sec, 0 pre-filtered tx/sec, avg/last 4859.94/5539.24
+
+kilobytes per sec, chain/common height 673051/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:56 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 673053, date 2021-03-04T00:13:12Z, hash
+
+00000000000000000006461f061ca85408edc2ede76b349b602821a6be9fc634
+
+23:09:56 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 2
+
+blocks/sec, 3304 tx/sec, 0 pre-filtered tx/sec, avg/last 4788.16/3417.76
+
+kilobytes per sec, chain/common height 673053/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:56 [Wallet autosave thread] WalletFiles - Save completed in 144.7 ms
+
+23:09:57 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 0
+
+blocks/sec, 0 tx/sec, 0 pre-filtered tx/sec, avg/last 4477.04/0.00 kilobytes per
+
+sec, chain/common height 673054/689563, not stalled (threshold <0.78 KB/sec for
+
+20 seconds)
+
+23:09:58 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 3
+
+blocks/sec, 6112 tx/sec, 0 pre-filtered tx/sec, avg/last 4487.87/3910.81
+
+kilobytes per sec, chain/common height 673057/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:09:59 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 3
+
+blocks/sec, 8667 tx/sec, 0 pre-filtered tx/sec, avg/last 4569.87/4092.26
+
+kilobytes per sec, chain/common height 673060/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:10:00 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 4
+
+blocks/sec, 9604 tx/sec, 0 pre-filtered tx/sec, avg/last 4571.63/4958.60
+
+kilobytes per sec, chain/common height 673064/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:10:00 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 673063, date 2021-03-04T02:35:37Z, hash
+
+0000000000000000000180627c8d3987d91a2fc6c1ad8890b2abbb0be26c6d47
+
+23:10:00 [Wallet autosave thread] WalletFiles - Save completed in 41.16 ms
+
+23:10:01 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 2
+
+blocks/sec, 5170 tx/sec, 0 pre-filtered tx/sec, avg/last 4413.21/2247.79
+
+kilobytes per sec, chain/common height 673065/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:10:02 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 0
+
+blocks/sec, 0 tx/sec, 0 pre-filtered tx/sec, avg/last 4165.71/0.00 kilobytes per
+
+sec, chain/common height 673065/689563, not stalled (threshold <0.78 KB/sec for
+
+20 seconds)
+
+23:10:03 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 2
+
+blocks/sec, 4171 tx/sec, 0 pre-filtered tx/sec, avg/last 4029.59/2367.69
+
+kilobytes per sec, chain/common height 673067/689563, not stalled (threshold
+
+<0.78 KB/sec for 20 seconds)
+
+23:10:04 [Wallet autosave thread] WalletFiles - Background saving wallet; last
+
+seen block is height 673068, date 2021-03-04T03:21:42Z, hash
+
+000000000000000000092c835a0fd09443b3916584a82fecb73158a41a173cce
+
+23:10:04 [PeerGroup Thread] PeerGroup$ChainDownloadSpeedCalculator - 1
+
+blocks/sec, 2911 tx/sec, 0 pre-filtered tx/sec, avg/last 3905.89/1321.51
+
+kilobyte mỗi giây, chuỗi / chiều cao chung 673069/689563, không bị đình trệ (ngưỡng
+Các bác sĩ cho biết thêm:
+
+<0,78 KB / giây trong 20 giây)
+
+23:10:04 [Tự động lưu chủ đề trên Wallet] WalletFiles - Hoàn tất quá trình lưu trong 815,7 mili giây
